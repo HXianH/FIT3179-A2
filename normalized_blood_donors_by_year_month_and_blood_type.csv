@@ -1,0 +1,4486 @@
+state,year,month,blood_type,donations
+Johor,2019,1,a,1017
+Johor,2019,1,ab,220
+Johor,2019,1,all,4071
+Johor,2019,1,b,1113
+Johor,2019,1,o,1721
+Johor,2019,2,a,846
+Johor,2019,2,ab,168
+Johor,2019,2,all,3171
+Johor,2019,2,b,837
+Johor,2019,2,o,1320
+Johor,2019,3,a,984
+Johor,2019,3,ab,170
+Johor,2019,3,all,3918
+Johor,2019,3,b,1048
+Johor,2019,3,o,1716
+Johor,2019,4,a,775
+Johor,2019,4,ab,177
+Johor,2019,4,all,3227
+Johor,2019,4,b,890
+Johor,2019,4,o,1385
+Johor,2019,5,a,776
+Johor,2019,5,ab,157
+Johor,2019,5,all,3078
+Johor,2019,5,b,815
+Johor,2019,5,o,1330
+Johor,2019,6,a,663
+Johor,2019,6,ab,145
+Johor,2019,6,all,2691
+Johor,2019,6,b,705
+Johor,2019,6,o,1178
+Johor,2019,7,a,974
+Johor,2019,7,ab,190
+Johor,2019,7,all,3913
+Johor,2019,7,b,1042
+Johor,2019,7,o,1707
+Johor,2019,8,a,924
+Johor,2019,8,ab,205
+Johor,2019,8,all,3701
+Johor,2019,8,b,952
+Johor,2019,8,o,1620
+Johor,2019,9,a,944
+Johor,2019,9,ab,196
+Johor,2019,9,all,3887
+Johor,2019,9,b,1036
+Johor,2019,9,o,1711
+Johor,2019,10,a,821
+Johor,2019,10,ab,143
+Johor,2019,10,all,3252
+Johor,2019,10,b,877
+Johor,2019,10,o,1411
+Johor,2019,11,a,735
+Johor,2019,11,ab,192
+Johor,2019,11,all,3134
+Johor,2019,11,b,863
+Johor,2019,11,o,1344
+Johor,2019,12,a,818
+Johor,2019,12,ab,165
+Johor,2019,12,all,3218
+Johor,2019,12,b,865
+Johor,2019,12,o,1370
+Johor,2020,1,a,850
+Johor,2020,1,ab,212
+Johor,2020,1,all,3485
+Johor,2020,1,b,983
+Johor,2020,1,o,1440
+Johor,2020,2,a,853
+Johor,2020,2,ab,182
+Johor,2020,2,all,3498
+Johor,2020,2,b,987
+Johor,2020,2,o,1476
+Johor,2020,3,a,856
+Johor,2020,3,ab,105
+Johor,2020,3,all,3366
+Johor,2020,3,b,849
+Johor,2020,3,o,1556
+Johor,2020,4,a,612
+Johor,2020,4,ab,133
+Johor,2020,4,all,2610
+Johor,2020,4,b,659
+Johor,2020,4,o,1206
+Johor,2020,5,a,819
+Johor,2020,5,ab,180
+Johor,2020,5,all,3242
+Johor,2020,5,b,841
+Johor,2020,5,o,1402
+Johor,2020,6,a,976
+Johor,2020,6,ab,200
+Johor,2020,6,all,4002
+Johor,2020,6,b,1064
+Johor,2020,6,o,1762
+Johor,2020,7,a,834
+Johor,2020,7,ab,194
+Johor,2020,7,all,3265
+Johor,2020,7,b,846
+Johor,2020,7,o,1391
+Johor,2020,8,a,894
+Johor,2020,8,ab,204
+Johor,2020,8,all,3848
+Johor,2020,8,b,1089
+Johor,2020,8,o,1661
+Johor,2020,9,a,829
+Johor,2020,9,ab,183
+Johor,2020,9,all,3602
+Johor,2020,9,b,985
+Johor,2020,9,o,1605
+Johor,2020,10,a,878
+Johor,2020,10,ab,156
+Johor,2020,10,all,3436
+Johor,2020,10,b,977
+Johor,2020,10,o,1425
+Johor,2020,11,a,784
+Johor,2020,11,ab,183
+Johor,2020,11,all,3216
+Johor,2020,11,b,872
+Johor,2020,11,o,1377
+Johor,2020,12,a,739
+Johor,2020,12,ab,161
+Johor,2020,12,all,3135
+Johor,2020,12,b,844
+Johor,2020,12,o,1391
+Johor,2021,1,a,739
+Johor,2021,1,ab,165
+Johor,2021,1,all,3288
+Johor,2021,1,b,918
+Johor,2021,1,o,1466
+Johor,2021,2,a,823
+Johor,2021,2,ab,178
+Johor,2021,2,all,3354
+Johor,2021,2,b,898
+Johor,2021,2,o,1455
+Johor,2021,3,a,894
+Johor,2021,3,ab,201
+Johor,2021,3,all,3645
+Johor,2021,3,b,982
+Johor,2021,3,o,1568
+Johor,2021,4,a,694
+Johor,2021,4,ab,152
+Johor,2021,4,all,2809
+Johor,2021,4,b,729
+Johor,2021,4,o,1234
+Johor,2021,5,a,882
+Johor,2021,5,ab,215
+Johor,2021,5,all,3676
+Johor,2021,5,b,973
+Johor,2021,5,o,1606
+Johor,2021,6,a,871
+Johor,2021,6,ab,180
+Johor,2021,6,all,3530
+Johor,2021,6,b,938
+Johor,2021,6,o,1541
+Johor,2021,7,a,707
+Johor,2021,7,ab,174
+Johor,2021,7,all,2975
+Johor,2021,7,b,797
+Johor,2021,7,o,1297
+Johor,2021,8,a,767
+Johor,2021,8,ab,176
+Johor,2021,8,all,3126
+Johor,2021,8,b,844
+Johor,2021,8,o,1339
+Johor,2021,9,a,812
+Johor,2021,9,ab,182
+Johor,2021,9,all,3467
+Johor,2021,9,b,947
+Johor,2021,9,o,1526
+Johor,2021,10,a,873
+Johor,2021,10,ab,175
+Johor,2021,10,all,3636
+Johor,2021,10,b,997
+Johor,2021,10,o,1591
+Johor,2021,11,a,866
+Johor,2021,11,ab,219
+Johor,2021,11,all,3467
+Johor,2021,11,b,928
+Johor,2021,11,o,1454
+Johor,2021,12,a,817
+Johor,2021,12,ab,145
+Johor,2021,12,all,3436
+Johor,2021,12,b,919
+Johor,2021,12,o,1555
+Johor,2022,1,a,890
+Johor,2022,1,ab,219
+Johor,2022,1,all,3617
+Johor,2022,1,b,974
+Johor,2022,1,o,1534
+Johor,2022,2,a,687
+Johor,2022,2,ab,133
+Johor,2022,2,all,2842
+Johor,2022,2,b,741
+Johor,2022,2,o,1281
+Johor,2022,3,a,899
+Johor,2022,3,ab,192
+Johor,2022,3,all,3718
+Johor,2022,3,b,990
+Johor,2022,3,o,1637
+Johor,2022,4,a,750
+Johor,2022,4,ab,154
+Johor,2022,4,all,2894
+Johor,2022,4,b,763
+Johor,2022,4,o,1227
+Johor,2022,5,a,1041
+Johor,2022,5,ab,224
+Johor,2022,5,all,4028
+Johor,2022,5,b,1032
+Johor,2022,5,o,1731
+Johor,2022,6,a,1019
+Johor,2022,6,ab,200
+Johor,2022,6,all,4177
+Johor,2022,6,b,1150
+Johor,2022,6,o,1808
+Johor,2022,7,a,814
+Johor,2022,7,ab,163
+Johor,2022,7,all,3387
+Johor,2022,7,b,902
+Johor,2022,7,o,1508
+Johor,2022,8,a,953
+Johor,2022,8,ab,193
+Johor,2022,8,all,3770
+Johor,2022,8,b,1034
+Johor,2022,8,o,1590
+Johor,2022,9,a,823
+Johor,2022,9,ab,117
+Johor,2022,9,all,3421
+Johor,2022,9,b,932
+Johor,2022,9,o,1549
+Johor,2022,10,a,1032
+Johor,2022,10,ab,229
+Johor,2022,10,all,4142
+Johor,2022,10,b,1123
+Johor,2022,10,o,1758
+Johor,2022,11,a,800
+Johor,2022,11,ab,178
+Johor,2022,11,all,3309
+Johor,2022,11,b,922
+Johor,2022,11,o,1409
+Johor,2022,12,a,842
+Johor,2022,12,ab,142
+Johor,2022,12,all,3527
+Johor,2022,12,b,1007
+Johor,2022,12,o,1536
+Johor,2023,1,a,880
+Johor,2023,1,ab,191
+Johor,2023,1,all,3666
+Johor,2023,1,b,1024
+Johor,2023,1,o,1571
+Johor,2023,2,a,893
+Johor,2023,2,ab,197
+Johor,2023,2,all,3636
+Johor,2023,2,b,980
+Johor,2023,2,o,1566
+Johor,2023,3,a,862
+Johor,2023,3,ab,174
+Johor,2023,3,all,3591
+Johor,2023,3,b,958
+Johor,2023,3,o,1597
+Johor,2023,4,a,689
+Johor,2023,4,ab,144
+Johor,2023,4,all,2871
+Johor,2023,4,b,711
+Johor,2023,4,o,1327
+Johor,2023,5,a,1117
+Johor,2023,5,ab,240
+Johor,2023,5,all,4399
+Johor,2023,5,b,1160
+Johor,2023,5,o,1882
+Johor,2023,6,a,903
+Johor,2023,6,ab,173
+Johor,2023,6,all,3757
+Johor,2023,6,b,991
+Johor,2023,6,o,1690
+Johor,2023,7,a,908
+Johor,2023,7,ab,183
+Johor,2023,7,all,3743
+Johor,2023,7,b,990
+Johor,2023,7,o,1662
+Johor,2023,8,a,888
+Johor,2023,8,ab,182
+Johor,2023,8,all,3645
+Johor,2023,8,b,1013
+Johor,2023,8,o,1562
+Johor,2023,9,a,848
+Johor,2023,9,ab,185
+Johor,2023,9,all,3404
+Johor,2023,9,b,847
+Johor,2023,9,o,1524
+Johor,2023,10,a,896
+Johor,2023,10,ab,186
+Johor,2023,10,all,3621
+Johor,2023,10,b,956
+Johor,2023,10,o,1583
+Johor,2023,11,a,815
+Johor,2023,11,ab,213
+Johor,2023,11,all,3453
+Johor,2023,11,b,955
+Johor,2023,11,o,1470
+Johor,2023,12,a,924
+Johor,2023,12,ab,227
+Johor,2023,12,all,3920
+Johor,2023,12,b,1078
+Johor,2023,12,o,1690
+Johor,2024,1,a,1000
+Johor,2024,1,ab,131
+Johor,2024,1,all,4120
+Johor,2024,1,b,1144
+Johor,2024,1,o,1845
+Johor,2024,2,a,860
+Johor,2024,2,ab,196
+Johor,2024,2,all,3596
+Johor,2024,2,b,977
+Johor,2024,2,o,1563
+Johor,2024,3,a,886
+Johor,2024,3,ab,184
+Johor,2024,3,all,3590
+Johor,2024,3,b,898
+Johor,2024,3,o,1622
+Johor,2024,4,a,837
+Johor,2024,4,ab,168
+Johor,2024,4,all,3524
+Johor,2024,4,b,920
+Johor,2024,4,o,1599
+Johor,2024,5,a,1072
+Johor,2024,5,ab,170
+Johor,2024,5,all,4121
+Johor,2024,5,b,1136
+Johor,2024,5,o,1743
+Johor,2024,6,a,914
+Johor,2024,6,ab,190
+Johor,2024,6,all,4001
+Johor,2024,6,b,1076
+Johor,2024,6,o,1821
+Johor,2024,7,a,895
+Johor,2024,7,ab,219
+Johor,2024,7,all,3601
+Johor,2024,7,b,972
+Johor,2024,7,o,1515
+Johor,2024,8,a,938
+Johor,2024,8,ab,192
+Johor,2024,8,all,3871
+Johor,2024,8,b,1072
+Johor,2024,8,o,1669
+Johor,2024,9,a,510
+Johor,2024,9,ab,62
+Johor,2024,9,all,2085
+Johor,2024,9,b,582
+Johor,2024,9,o,931
+Kedah,2019,1,a,1414
+Kedah,2019,1,ab,391
+Kedah,2019,1,all,5696
+Kedah,2019,1,b,1665
+Kedah,2019,1,o,2226
+Kedah,2019,2,a,1198
+Kedah,2019,2,ab,314
+Kedah,2019,2,all,4817
+Kedah,2019,2,b,1345
+Kedah,2019,2,o,1960
+Kedah,2019,3,a,1473
+Kedah,2019,3,ab,397
+Kedah,2019,3,all,5986
+Kedah,2019,3,b,1695
+Kedah,2019,3,o,2421
+Kedah,2019,4,a,1541
+Kedah,2019,4,ab,381
+Kedah,2019,4,all,6056
+Kedah,2019,4,b,1683
+Kedah,2019,4,o,2451
+Kedah,2019,5,a,1193
+Kedah,2019,5,ab,365
+Kedah,2019,5,all,4773
+Kedah,2019,5,b,1283
+Kedah,2019,5,o,1932
+Kedah,2019,6,a,891
+Kedah,2019,6,ab,250
+Kedah,2019,6,all,3689
+Kedah,2019,6,b,1053
+Kedah,2019,6,o,1495
+Kedah,2019,7,a,527
+Kedah,2019,7,ab,148
+Kedah,2019,7,all,2185
+Kedah,2019,7,b,619
+Kedah,2019,7,o,891
+Kedah,2019,8,a,462
+Kedah,2019,8,ab,134
+Kedah,2019,8,all,1854
+Kedah,2019,8,b,474
+Kedah,2019,8,o,784
+Kedah,2019,9,a,450
+Kedah,2019,9,ab,118
+Kedah,2019,9,all,1849
+Kedah,2019,9,b,563
+Kedah,2019,9,o,718
+Kedah,2019,10,a,447
+Kedah,2019,10,ab,113
+Kedah,2019,10,all,1787
+Kedah,2019,10,b,520
+Kedah,2019,10,o,707
+Kedah,2019,11,a,455
+Kedah,2019,11,ab,127
+Kedah,2019,11,all,1870
+Kedah,2019,11,b,549
+Kedah,2019,11,o,739
+Kedah,2019,12,a,488
+Kedah,2019,12,ab,131
+Kedah,2019,12,all,1944
+Kedah,2019,12,b,530
+Kedah,2019,12,o,795
+Kedah,2020,1,a,576
+Kedah,2020,1,ab,162
+Kedah,2020,1,all,2231
+Kedah,2020,1,b,615
+Kedah,2020,1,o,878
+Kedah,2020,2,a,648
+Kedah,2020,2,ab,168
+Kedah,2020,2,all,2486
+Kedah,2020,2,b,698
+Kedah,2020,2,o,972
+Kedah,2020,3,a,327
+Kedah,2020,3,ab,81
+Kedah,2020,3,all,1324
+Kedah,2020,3,b,375
+Kedah,2020,3,o,541
+Kedah,2020,4,a,272
+Kedah,2020,4,ab,65
+Kedah,2020,4,all,1170
+Kedah,2020,4,b,328
+Kedah,2020,4,o,505
+Kedah,2020,5,a,298
+Kedah,2020,5,ab,102
+Kedah,2020,5,all,1278
+Kedah,2020,5,b,352
+Kedah,2020,5,o,526
+Kedah,2020,6,a,534
+Kedah,2020,6,ab,123
+Kedah,2020,6,all,2003
+Kedah,2020,6,b,529
+Kedah,2020,6,o,817
+Kedah,2020,7,a,452
+Kedah,2020,7,ab,125
+Kedah,2020,7,all,1823
+Kedah,2020,7,b,543
+Kedah,2020,7,o,703
+Kedah,2020,8,a,273
+Kedah,2020,8,ab,71
+Kedah,2020,8,all,1158
+Kedah,2020,8,b,321
+Kedah,2020,8,o,493
+Kedah,2020,9,a,66
+Kedah,2020,9,ab,23
+Kedah,2020,9,all,315
+Kedah,2020,9,b,95
+Kedah,2020,9,o,131
+Kedah,2020,10,a,364
+Kedah,2020,10,ab,113
+Kedah,2020,10,all,1566
+Kedah,2020,10,b,423
+Kedah,2020,10,o,666
+Kedah,2020,11,a,415
+Kedah,2020,11,ab,98
+Kedah,2020,11,all,1633
+Kedah,2020,11,b,442
+Kedah,2020,11,o,678
+Kedah,2020,12,a,422
+Kedah,2020,12,ab,141
+Kedah,2020,12,all,1889
+Kedah,2020,12,b,565
+Kedah,2020,12,o,761
+Kedah,2021,1,a,394
+Kedah,2021,1,ab,89
+Kedah,2021,1,all,1603
+Kedah,2021,1,b,456
+Kedah,2021,1,o,664
+Kedah,2021,2,a,412
+Kedah,2021,2,ab,111
+Kedah,2021,2,all,1680
+Kedah,2021,2,b,451
+Kedah,2021,2,o,706
+Kedah,2021,3,a,369
+Kedah,2021,3,ab,91
+Kedah,2021,3,all,1561
+Kedah,2021,3,b,457
+Kedah,2021,3,o,644
+Kedah,2021,4,a,422
+Kedah,2021,4,ab,121
+Kedah,2021,4,all,1683
+Kedah,2021,4,b,497
+Kedah,2021,4,o,643
+Kedah,2021,5,a,340
+Kedah,2021,5,ab,72
+Kedah,2021,5,all,1400
+Kedah,2021,5,b,408
+Kedah,2021,5,o,580
+Kedah,2021,6,a,427
+Kedah,2021,6,ab,117
+Kedah,2021,6,all,1682
+Kedah,2021,6,b,478
+Kedah,2021,6,o,660
+Kedah,2021,7,a,404
+Kedah,2021,7,ab,104
+Kedah,2021,7,all,1665
+Kedah,2021,7,b,482
+Kedah,2021,7,o,675
+Kedah,2021,8,a,398
+Kedah,2021,8,ab,94
+Kedah,2021,8,all,1686
+Kedah,2021,8,b,487
+Kedah,2021,8,o,707
+Kedah,2021,9,a,375
+Kedah,2021,9,ab,105
+Kedah,2021,9,all,1471
+Kedah,2021,9,b,393
+Kedah,2021,9,o,598
+Kedah,2021,10,a,393
+Kedah,2021,10,ab,103
+Kedah,2021,10,all,1707
+Kedah,2021,10,b,486
+Kedah,2021,10,o,725
+Kedah,2021,11,a,495
+Kedah,2021,11,ab,119
+Kedah,2021,11,all,1991
+Kedah,2021,11,b,557
+Kedah,2021,11,o,820
+Kedah,2021,12,a,423
+Kedah,2021,12,ab,108
+Kedah,2021,12,all,1817
+Kedah,2021,12,b,540
+Kedah,2021,12,o,746
+Kedah,2022,1,a,469
+Kedah,2022,1,ab,98
+Kedah,2022,1,all,1830
+Kedah,2022,1,b,510
+Kedah,2022,1,o,753
+Kedah,2022,2,a,401
+Kedah,2022,2,ab,93
+Kedah,2022,2,all,1574
+Kedah,2022,2,b,426
+Kedah,2022,2,o,654
+Kedah,2022,3,a,446
+Kedah,2022,3,ab,110
+Kedah,2022,3,all,1797
+Kedah,2022,3,b,520
+Kedah,2022,3,o,721
+Kedah,2022,4,a,287
+Kedah,2022,4,ab,66
+Kedah,2022,4,all,1051
+Kedah,2022,4,b,297
+Kedah,2022,4,o,401
+Kedah,2022,5,a,524
+Kedah,2022,5,ab,131
+Kedah,2022,5,all,2187
+Kedah,2022,5,b,614
+Kedah,2022,5,o,918
+Kedah,2022,6,a,465
+Kedah,2022,6,ab,107
+Kedah,2022,6,all,1860
+Kedah,2022,6,b,537
+Kedah,2022,6,o,751
+Kedah,2022,7,a,439
+Kedah,2022,7,ab,116
+Kedah,2022,7,all,1714
+Kedah,2022,7,b,489
+Kedah,2022,7,o,670
+Kedah,2022,8,a,446
+Kedah,2022,8,ab,133
+Kedah,2022,8,all,1888
+Kedah,2022,8,b,566
+Kedah,2022,8,o,743
+Kedah,2022,9,a,420
+Kedah,2022,9,ab,117
+Kedah,2022,9,all,1759
+Kedah,2022,9,b,472
+Kedah,2022,9,o,750
+Kedah,2022,10,a,487
+Kedah,2022,10,ab,132
+Kedah,2022,10,all,2012
+Kedah,2022,10,b,582
+Kedah,2022,10,o,811
+Kedah,2022,11,a,406
+Kedah,2022,11,ab,107
+Kedah,2022,11,all,1642
+Kedah,2022,11,b,409
+Kedah,2022,11,o,720
+Kedah,2022,12,a,421
+Kedah,2022,12,ab,117
+Kedah,2022,12,all,1814
+Kedah,2022,12,b,522
+Kedah,2022,12,o,754
+Kedah,2023,1,a,520
+Kedah,2023,1,ab,138
+Kedah,2023,1,all,2086
+Kedah,2023,1,b,560
+Kedah,2023,1,o,868
+Kedah,2023,2,a,482
+Kedah,2023,2,ab,103
+Kedah,2023,2,all,1826
+Kedah,2023,2,b,487
+Kedah,2023,2,o,754
+Kedah,2023,3,a,535
+Kedah,2023,3,ab,115
+Kedah,2023,3,all,2092
+Kedah,2023,3,b,589
+Kedah,2023,3,o,853
+Kedah,2023,4,a,252
+Kedah,2023,4,ab,69
+Kedah,2023,4,all,1102
+Kedah,2023,4,b,324
+Kedah,2023,4,o,457
+Kedah,2023,5,a,541
+Kedah,2023,5,ab,134
+Kedah,2023,5,all,2068
+Kedah,2023,5,b,572
+Kedah,2023,5,o,821
+Kedah,2023,6,a,463
+Kedah,2023,6,ab,118
+Kedah,2023,6,all,1828
+Kedah,2023,6,b,506
+Kedah,2023,6,o,741
+Kedah,2023,7,a,348
+Kedah,2023,7,ab,90
+Kedah,2023,7,all,1422
+Kedah,2023,7,b,393
+Kedah,2023,7,o,591
+Kedah,2023,8,a,482
+Kedah,2023,8,ab,107
+Kedah,2023,8,all,1887
+Kedah,2023,8,b,530
+Kedah,2023,8,o,768
+Kedah,2023,9,a,464
+Kedah,2023,9,ab,114
+Kedah,2023,9,all,1880
+Kedah,2023,9,b,542
+Kedah,2023,9,o,760
+Kedah,2023,10,a,478
+Kedah,2023,10,ab,132
+Kedah,2023,10,all,1935
+Kedah,2023,10,b,549
+Kedah,2023,10,o,775
+Kedah,2023,11,a,457
+Kedah,2023,11,ab,104
+Kedah,2023,11,all,1767
+Kedah,2023,11,b,479
+Kedah,2023,11,o,727
+Kedah,2023,12,a,398
+Kedah,2023,12,ab,121
+Kedah,2023,12,all,1671
+Kedah,2023,12,b,513
+Kedah,2023,12,o,639
+Kedah,2024,1,a,421
+Kedah,2024,1,ab,113
+Kedah,2024,1,all,1721
+Kedah,2024,1,b,495
+Kedah,2024,1,o,692
+Kedah,2024,2,a,431
+Kedah,2024,2,ab,110
+Kedah,2024,2,all,1759
+Kedah,2024,2,b,505
+Kedah,2024,2,o,713
+Kedah,2024,3,a,441
+Kedah,2024,3,ab,112
+Kedah,2024,3,all,1803
+Kedah,2024,3,b,494
+Kedah,2024,3,o,756
+Kedah,2024,4,a,359
+Kedah,2024,4,ab,80
+Kedah,2024,4,all,1393
+Kedah,2024,4,b,402
+Kedah,2024,4,o,552
+Kedah,2024,5,a,465
+Kedah,2024,5,ab,107
+Kedah,2024,5,all,1836
+Kedah,2024,5,b,528
+Kedah,2024,5,o,736
+Kedah,2024,6,a,424
+Kedah,2024,6,ab,100
+Kedah,2024,6,all,1685
+Kedah,2024,6,b,481
+Kedah,2024,6,o,680
+Kedah,2024,7,a,435
+Kedah,2024,7,ab,113
+Kedah,2024,7,all,1685
+Kedah,2024,7,b,470
+Kedah,2024,7,o,667
+Kedah,2024,8,a,559
+Kedah,2024,8,ab,117
+Kedah,2024,8,all,2124
+Kedah,2024,8,b,591
+Kedah,2024,8,o,857
+Kedah,2024,9,a,207
+Kedah,2024,9,ab,54
+Kedah,2024,9,all,903
+Kedah,2024,9,b,255
+Kedah,2024,9,o,387
+Kelantan,2019,1,a,323
+Kelantan,2019,1,ab,85
+Kelantan,2019,1,all,1211
+Kelantan,2019,1,b,305
+Kelantan,2019,1,o,498
+Kelantan,2019,2,a,202
+Kelantan,2019,2,ab,46
+Kelantan,2019,2,all,779
+Kelantan,2019,2,b,241
+Kelantan,2019,2,o,290
+Kelantan,2019,3,a,307
+Kelantan,2019,3,ab,43
+Kelantan,2019,3,all,1103
+Kelantan,2019,3,b,291
+Kelantan,2019,3,o,462
+Kelantan,2019,4,a,233
+Kelantan,2019,4,ab,86
+Kelantan,2019,4,all,984
+Kelantan,2019,4,b,227
+Kelantan,2019,4,o,438
+Kelantan,2019,5,a,148
+Kelantan,2019,5,ab,49
+Kelantan,2019,5,all,539
+Kelantan,2019,5,b,149
+Kelantan,2019,5,o,193
+Kelantan,2019,6,a,380
+Kelantan,2019,6,ab,101
+Kelantan,2019,6,all,1406
+Kelantan,2019,6,b,387
+Kelantan,2019,6,o,538
+Kelantan,2019,7,a,247
+Kelantan,2019,7,ab,62
+Kelantan,2019,7,all,1005
+Kelantan,2019,7,b,251
+Kelantan,2019,7,o,445
+Kelantan,2019,8,a,155
+Kelantan,2019,8,ab,50
+Kelantan,2019,8,all,663
+Kelantan,2019,8,b,187
+Kelantan,2019,8,o,271
+Kelantan,2019,9,a,227
+Kelantan,2019,9,ab,67
+Kelantan,2019,9,all,819
+Kelantan,2019,9,b,211
+Kelantan,2019,9,o,314
+Kelantan,2019,10,a,264
+Kelantan,2019,10,ab,74
+Kelantan,2019,10,all,1013
+Kelantan,2019,10,b,246
+Kelantan,2019,10,o,429
+Kelantan,2019,11,a,234
+Kelantan,2019,11,ab,68
+Kelantan,2019,11,all,884
+Kelantan,2019,11,b,239
+Kelantan,2019,11,o,343
+Kelantan,2019,12,a,345
+Kelantan,2019,12,ab,71
+Kelantan,2019,12,all,1177
+Kelantan,2019,12,b,313
+Kelantan,2019,12,o,448
+Kelantan,2020,1,a,321
+Kelantan,2020,1,ab,96
+Kelantan,2020,1,all,1226
+Kelantan,2020,1,b,337
+Kelantan,2020,1,o,472
+Kelantan,2020,2,a,239
+Kelantan,2020,2,ab,52
+Kelantan,2020,2,all,829
+Kelantan,2020,2,b,217
+Kelantan,2020,2,o,321
+Kelantan,2020,3,a,251
+Kelantan,2020,3,ab,60
+Kelantan,2020,3,all,952
+Kelantan,2020,3,b,240
+Kelantan,2020,3,o,401
+Kelantan,2020,4,a,195
+Kelantan,2020,4,ab,61
+Kelantan,2020,4,all,814
+Kelantan,2020,4,b,215
+Kelantan,2020,4,o,343
+Kelantan,2020,5,a,253
+Kelantan,2020,5,ab,60
+Kelantan,2020,5,all,843
+Kelantan,2020,5,b,218
+Kelantan,2020,5,o,312
+Kelantan,2020,6,a,456
+Kelantan,2020,6,ab,109
+Kelantan,2020,6,all,1788
+Kelantan,2020,6,b,499
+Kelantan,2020,6,o,724
+Kelantan,2020,7,a,247
+Kelantan,2020,7,ab,56
+Kelantan,2020,7,all,838
+Kelantan,2020,7,b,201
+Kelantan,2020,7,o,334
+Kelantan,2020,8,a,315
+Kelantan,2020,8,ab,88
+Kelantan,2020,8,all,1186
+Kelantan,2020,8,b,318
+Kelantan,2020,8,o,465
+Kelantan,2020,9,a,282
+Kelantan,2020,9,ab,81
+Kelantan,2020,9,all,1147
+Kelantan,2020,9,b,302
+Kelantan,2020,9,o,482
+Kelantan,2020,10,a,321
+Kelantan,2020,10,ab,80
+Kelantan,2020,10,all,1124
+Kelantan,2020,10,b,291
+Kelantan,2020,10,o,432
+Kelantan,2020,11,a,248
+Kelantan,2020,11,ab,61
+Kelantan,2020,11,all,964
+Kelantan,2020,11,b,251
+Kelantan,2020,11,o,404
+Kelantan,2020,12,a,273
+Kelantan,2020,12,ab,61
+Kelantan,2020,12,all,1046
+Kelantan,2020,12,b,275
+Kelantan,2020,12,o,437
+Kelantan,2021,1,a,306
+Kelantan,2021,1,ab,88
+Kelantan,2021,1,all,1202
+Kelantan,2021,1,b,318
+Kelantan,2021,1,o,490
+Kelantan,2021,2,a,205
+Kelantan,2021,2,ab,56
+Kelantan,2021,2,all,777
+Kelantan,2021,2,b,212
+Kelantan,2021,2,o,304
+Kelantan,2021,3,a,270
+Kelantan,2021,3,ab,74
+Kelantan,2021,3,all,1013
+Kelantan,2021,3,b,252
+Kelantan,2021,3,o,417
+Kelantan,2021,4,a,267
+Kelantan,2021,4,ab,74
+Kelantan,2021,4,all,992
+Kelantan,2021,4,b,288
+Kelantan,2021,4,o,363
+Kelantan,2021,5,a,201
+Kelantan,2021,5,ab,59
+Kelantan,2021,5,all,768
+Kelantan,2021,5,b,192
+Kelantan,2021,5,o,316
+Kelantan,2021,6,a,237
+Kelantan,2021,6,ab,61
+Kelantan,2021,6,all,926
+Kelantan,2021,6,b,261
+Kelantan,2021,6,o,367
+Kelantan,2021,7,a,278
+Kelantan,2021,7,ab,96
+Kelantan,2021,7,all,990
+Kelantan,2021,7,b,245
+Kelantan,2021,7,o,371
+Kelantan,2021,8,a,233
+Kelantan,2021,8,ab,63
+Kelantan,2021,8,all,933
+Kelantan,2021,8,b,259
+Kelantan,2021,8,o,378
+Kelantan,2021,9,a,256
+Kelantan,2021,9,ab,92
+Kelantan,2021,9,all,1047
+Kelantan,2021,9,b,288
+Kelantan,2021,9,o,411
+Kelantan,2021,10,a,281
+Kelantan,2021,10,ab,80
+Kelantan,2021,10,all,1079
+Kelantan,2021,10,b,268
+Kelantan,2021,10,o,450
+Kelantan,2021,11,a,280
+Kelantan,2021,11,ab,84
+Kelantan,2021,11,all,1027
+Kelantan,2021,11,b,267
+Kelantan,2021,11,o,396
+Kelantan,2021,12,a,330
+Kelantan,2021,12,ab,92
+Kelantan,2021,12,all,1341
+Kelantan,2021,12,b,360
+Kelantan,2021,12,o,559
+Kelantan,2022,1,a,244
+Kelantan,2022,1,ab,80
+Kelantan,2022,1,all,984
+Kelantan,2022,1,b,252
+Kelantan,2022,1,o,408
+Kelantan,2022,2,a,214
+Kelantan,2022,2,ab,49
+Kelantan,2022,2,all,797
+Kelantan,2022,2,b,183
+Kelantan,2022,2,o,351
+Kelantan,2022,3,a,350
+Kelantan,2022,3,ab,79
+Kelantan,2022,3,all,1316
+Kelantan,2022,3,b,327
+Kelantan,2022,3,o,560
+Kelantan,2022,4,a,270
+Kelantan,2022,4,ab,58
+Kelantan,2022,4,all,968
+Kelantan,2022,4,b,262
+Kelantan,2022,4,o,378
+Kelantan,2022,5,a,369
+Kelantan,2022,5,ab,104
+Kelantan,2022,5,all,1410
+Kelantan,2022,5,b,353
+Kelantan,2022,5,o,584
+Kelantan,2022,6,a,346
+Kelantan,2022,6,ab,81
+Kelantan,2022,6,all,1342
+Kelantan,2022,6,b,342
+Kelantan,2022,6,o,573
+Kelantan,2022,7,a,411
+Kelantan,2022,7,ab,97
+Kelantan,2022,7,all,1484
+Kelantan,2022,7,b,384
+Kelantan,2022,7,o,592
+Kelantan,2022,8,a,345
+Kelantan,2022,8,ab,91
+Kelantan,2022,8,all,1244
+Kelantan,2022,8,b,314
+Kelantan,2022,8,o,493
+Kelantan,2022,9,a,356
+Kelantan,2022,9,ab,87
+Kelantan,2022,9,all,1209
+Kelantan,2022,9,b,297
+Kelantan,2022,9,o,469
+Kelantan,2022,10,a,402
+Kelantan,2022,10,ab,102
+Kelantan,2022,10,all,1476
+Kelantan,2022,10,b,369
+Kelantan,2022,10,o,603
+Kelantan,2022,11,a,370
+Kelantan,2022,11,ab,97
+Kelantan,2022,11,all,1511
+Kelantan,2022,11,b,400
+Kelantan,2022,11,o,644
+Kelantan,2022,12,a,365
+Kelantan,2022,12,ab,85
+Kelantan,2022,12,all,1319
+Kelantan,2022,12,b,355
+Kelantan,2022,12,o,514
+Kelantan,2023,1,a,368
+Kelantan,2023,1,ab,82
+Kelantan,2023,1,all,1308
+Kelantan,2023,1,b,364
+Kelantan,2023,1,o,494
+Kelantan,2023,2,a,372
+Kelantan,2023,2,ab,103
+Kelantan,2023,2,all,1439
+Kelantan,2023,2,b,391
+Kelantan,2023,2,o,573
+Kelantan,2023,3,a,515
+Kelantan,2023,3,ab,107
+Kelantan,2023,3,all,1959
+Kelantan,2023,3,b,556
+Kelantan,2023,3,o,781
+Kelantan,2023,4,a,282
+Kelantan,2023,4,ab,60
+Kelantan,2023,4,all,1028
+Kelantan,2023,4,b,281
+Kelantan,2023,4,o,405
+Kelantan,2023,5,a,373
+Kelantan,2023,5,ab,110
+Kelantan,2023,5,all,1408
+Kelantan,2023,5,b,365
+Kelantan,2023,5,o,560
+Kelantan,2023,6,a,477
+Kelantan,2023,6,ab,109
+Kelantan,2023,6,all,1744
+Kelantan,2023,6,b,470
+Kelantan,2023,6,o,688
+Kelantan,2023,7,a,308
+Kelantan,2023,7,ab,91
+Kelantan,2023,7,all,1253
+Kelantan,2023,7,b,341
+Kelantan,2023,7,o,513
+Kelantan,2023,8,a,344
+Kelantan,2023,8,ab,87
+Kelantan,2023,8,all,1381
+Kelantan,2023,8,b,391
+Kelantan,2023,8,o,559
+Kelantan,2023,9,a,337
+Kelantan,2023,9,ab,97
+Kelantan,2023,9,all,1231
+Kelantan,2023,9,b,306
+Kelantan,2023,9,o,491
+Kelantan,2023,10,a,308
+Kelantan,2023,10,ab,73
+Kelantan,2023,10,all,1162
+Kelantan,2023,10,b,313
+Kelantan,2023,10,o,468
+Kelantan,2023,11,a,365
+Kelantan,2023,11,ab,96
+Kelantan,2023,11,all,1398
+Kelantan,2023,11,b,407
+Kelantan,2023,11,o,530
+Kelantan,2023,12,a,375
+Kelantan,2023,12,ab,94
+Kelantan,2023,12,all,1405
+Kelantan,2023,12,b,359
+Kelantan,2023,12,o,577
+Kelantan,2024,1,a,398
+Kelantan,2024,1,ab,109
+Kelantan,2024,1,all,1646
+Kelantan,2024,1,b,395
+Kelantan,2024,1,o,744
+Kelantan,2024,2,a,345
+Kelantan,2024,2,ab,85
+Kelantan,2024,2,all,1335
+Kelantan,2024,2,b,347
+Kelantan,2024,2,o,558
+Kelantan,2024,3,a,497
+Kelantan,2024,3,ab,117
+Kelantan,2024,3,all,1823
+Kelantan,2024,3,b,488
+Kelantan,2024,3,o,721
+Kelantan,2024,4,a,341
+Kelantan,2024,4,ab,88
+Kelantan,2024,4,all,1260
+Kelantan,2024,4,b,311
+Kelantan,2024,4,o,520
+Kelantan,2024,5,a,420
+Kelantan,2024,5,ab,110
+Kelantan,2024,5,all,1734
+Kelantan,2024,5,b,484
+Kelantan,2024,5,o,720
+Kelantan,2024,6,a,425
+Kelantan,2024,6,ab,112
+Kelantan,2024,6,all,1541
+Kelantan,2024,6,b,383
+Kelantan,2024,6,o,621
+Kelantan,2024,7,a,475
+Kelantan,2024,7,ab,114
+Kelantan,2024,7,all,1741
+Kelantan,2024,7,b,433
+Kelantan,2024,7,o,719
+Kelantan,2024,8,a,503
+Kelantan,2024,8,ab,113
+Kelantan,2024,8,all,1757
+Kelantan,2024,8,b,465
+Kelantan,2024,8,o,676
+Kelantan,2024,9,a,209
+Kelantan,2024,9,ab,54
+Kelantan,2024,9,all,737
+Kelantan,2024,9,b,185
+Kelantan,2024,9,o,289
+Kuala Lumpur,2019,1,a,4096
+Kuala Lumpur,2019,1,ab,1027
+Kuala Lumpur,2019,1,all,16354
+Kuala Lumpur,2019,1,b,4472
+Kuala Lumpur,2019,1,o,6758
+Kuala Lumpur,2019,2,a,3867
+Kuala Lumpur,2019,2,ab,950
+Kuala Lumpur,2019,2,all,15470
+Kuala Lumpur,2019,2,b,4231
+Kuala Lumpur,2019,2,o,6422
+Kuala Lumpur,2019,3,a,5101
+Kuala Lumpur,2019,3,ab,1291
+Kuala Lumpur,2019,3,all,19916
+Kuala Lumpur,2019,3,b,5310
+Kuala Lumpur,2019,3,o,8212
+Kuala Lumpur,2019,4,a,4553
+Kuala Lumpur,2019,4,ab,850
+Kuala Lumpur,2019,4,all,17924
+Kuala Lumpur,2019,4,b,5008
+Kuala Lumpur,2019,4,o,7512
+Kuala Lumpur,2019,5,a,3396
+Kuala Lumpur,2019,5,ab,674
+Kuala Lumpur,2019,5,all,13195
+Kuala Lumpur,2019,5,b,3496
+Kuala Lumpur,2019,5,o,5628
+Kuala Lumpur,2019,6,a,3815
+Kuala Lumpur,2019,6,ab,973
+Kuala Lumpur,2019,6,all,14972
+Kuala Lumpur,2019,6,b,3895
+Kuala Lumpur,2019,6,o,6289
+Kuala Lumpur,2019,7,a,4703
+Kuala Lumpur,2019,7,ab,1068
+Kuala Lumpur,2019,7,all,18714
+Kuala Lumpur,2019,7,b,5126
+Kuala Lumpur,2019,7,o,7814
+Kuala Lumpur,2019,8,a,4570
+Kuala Lumpur,2019,8,ab,848
+Kuala Lumpur,2019,8,all,17717
+Kuala Lumpur,2019,8,b,4882
+Kuala Lumpur,2019,8,o,7416
+Kuala Lumpur,2019,9,a,3888
+Kuala Lumpur,2019,9,ab,871
+Kuala Lumpur,2019,9,all,15705
+Kuala Lumpur,2019,9,b,4396
+Kuala Lumpur,2019,9,o,6550
+Kuala Lumpur,2019,10,a,4231
+Kuala Lumpur,2019,10,ab,1045
+Kuala Lumpur,2019,10,all,17051
+Kuala Lumpur,2019,10,b,4682
+Kuala Lumpur,2019,10,o,7093
+Kuala Lumpur,2019,11,a,4356
+Kuala Lumpur,2019,11,ab,920
+Kuala Lumpur,2019,11,all,17127
+Kuala Lumpur,2019,11,b,4604
+Kuala Lumpur,2019,11,o,7246
+Kuala Lumpur,2019,12,a,3623
+Kuala Lumpur,2019,12,ab,835
+Kuala Lumpur,2019,12,all,14361
+Kuala Lumpur,2019,12,b,3830
+Kuala Lumpur,2019,12,o,6071
+Kuala Lumpur,2020,1,a,3292
+Kuala Lumpur,2020,1,ab,791
+Kuala Lumpur,2020,1,all,13116
+Kuala Lumpur,2020,1,b,3553
+Kuala Lumpur,2020,1,o,5479
+Kuala Lumpur,2020,2,a,3909
+Kuala Lumpur,2020,2,ab,988
+Kuala Lumpur,2020,2,all,15535
+Kuala Lumpur,2020,2,b,4230
+Kuala Lumpur,2020,2,o,6407
+Kuala Lumpur,2020,3,a,2936
+Kuala Lumpur,2020,3,ab,650
+Kuala Lumpur,2020,3,all,12015
+Kuala Lumpur,2020,3,b,3236
+Kuala Lumpur,2020,3,o,5193
+Kuala Lumpur,2020,4,a,2607
+Kuala Lumpur,2020,4,ab,496
+Kuala Lumpur,2020,4,all,11635
+Kuala Lumpur,2020,4,b,2934
+Kuala Lumpur,2020,4,o,5598
+Kuala Lumpur,2020,5,a,3602
+Kuala Lumpur,2020,5,ab,834
+Kuala Lumpur,2020,5,all,13523
+Kuala Lumpur,2020,5,b,3351
+Kuala Lumpur,2020,5,o,5736
+Kuala Lumpur,2020,6,a,3357
+Kuala Lumpur,2020,6,ab,787
+Kuala Lumpur,2020,6,all,13877
+Kuala Lumpur,2020,6,b,3414
+Kuala Lumpur,2020,6,o,6319
+Kuala Lumpur,2020,7,a,3373
+Kuala Lumpur,2020,7,ab,806
+Kuala Lumpur,2020,7,all,14018
+Kuala Lumpur,2020,7,b,3827
+Kuala Lumpur,2020,7,o,6012
+Kuala Lumpur,2020,8,a,5237
+Kuala Lumpur,2020,8,ab,1086
+Kuala Lumpur,2020,8,all,20069
+Kuala Lumpur,2020,8,b,5735
+Kuala Lumpur,2020,8,o,8010
+Kuala Lumpur,2020,9,a,3281
+Kuala Lumpur,2020,9,ab,700
+Kuala Lumpur,2020,9,all,12924
+Kuala Lumpur,2020,9,b,3410
+Kuala Lumpur,2020,9,o,5529
+Kuala Lumpur,2020,10,a,4226
+Kuala Lumpur,2020,10,ab,852
+Kuala Lumpur,2020,10,all,15675
+Kuala Lumpur,2020,10,b,4783
+Kuala Lumpur,2020,10,o,5812
+Kuala Lumpur,2020,11,a,3722
+Kuala Lumpur,2020,11,ab,866
+Kuala Lumpur,2020,11,all,14572
+Kuala Lumpur,2020,11,b,3902
+Kuala Lumpur,2020,11,o,6080
+Kuala Lumpur,2020,12,a,3318
+Kuala Lumpur,2020,12,ab,642
+Kuala Lumpur,2020,12,all,12982
+Kuala Lumpur,2020,12,b,3419
+Kuala Lumpur,2020,12,o,5603
+Kuala Lumpur,2021,1,a,3868
+Kuala Lumpur,2021,1,ab,851
+Kuala Lumpur,2021,1,all,16024
+Kuala Lumpur,2021,1,b,4297
+Kuala Lumpur,2021,1,o,7008
+Kuala Lumpur,2021,2,a,3618
+Kuala Lumpur,2021,2,ab,679
+Kuala Lumpur,2021,2,all,14222
+Kuala Lumpur,2021,2,b,3910
+Kuala Lumpur,2021,2,o,6015
+Kuala Lumpur,2021,3,a,3737
+Kuala Lumpur,2021,3,ab,930
+Kuala Lumpur,2021,3,all,15388
+Kuala Lumpur,2021,3,b,4200
+Kuala Lumpur,2021,3,o,6520
+Kuala Lumpur,2021,4,a,3277
+Kuala Lumpur,2021,4,ab,697
+Kuala Lumpur,2021,4,all,12649
+Kuala Lumpur,2021,4,b,3364
+Kuala Lumpur,2021,4,o,5308
+Kuala Lumpur,2021,5,a,3738
+Kuala Lumpur,2021,5,ab,743
+Kuala Lumpur,2021,5,all,15608
+Kuala Lumpur,2021,5,b,4347
+Kuala Lumpur,2021,5,o,6780
+Kuala Lumpur,2021,6,a,3733
+Kuala Lumpur,2021,6,ab,795
+Kuala Lumpur,2021,6,all,15040
+Kuala Lumpur,2021,6,b,4137
+Kuala Lumpur,2021,6,o,6373
+Kuala Lumpur,2021,7,a,2040
+Kuala Lumpur,2021,7,ab,453
+Kuala Lumpur,2021,7,all,8179
+Kuala Lumpur,2021,7,b,2271
+Kuala Lumpur,2021,7,o,3415
+Kuala Lumpur,2021,8,a,4162
+Kuala Lumpur,2021,8,ab,888
+Kuala Lumpur,2021,8,all,16818
+Kuala Lumpur,2021,8,b,4704
+Kuala Lumpur,2021,8,o,7063
+Kuala Lumpur,2021,9,a,4100
+Kuala Lumpur,2021,9,ab,889
+Kuala Lumpur,2021,9,all,16594
+Kuala Lumpur,2021,9,b,4633
+Kuala Lumpur,2021,9,o,6970
+Kuala Lumpur,2021,10,a,3460
+Kuala Lumpur,2021,10,ab,503
+Kuala Lumpur,2021,10,all,13131
+Kuala Lumpur,2021,10,b,3624
+Kuala Lumpur,2021,10,o,5544
+Kuala Lumpur,2021,11,a,3827
+Kuala Lumpur,2021,11,ab,888
+Kuala Lumpur,2021,11,all,14651
+Kuala Lumpur,2021,11,b,3883
+Kuala Lumpur,2021,11,o,6051
+Kuala Lumpur,2021,12,a,3764
+Kuala Lumpur,2021,12,ab,946
+Kuala Lumpur,2021,12,all,15663
+Kuala Lumpur,2021,12,b,4340
+Kuala Lumpur,2021,12,o,6612
+Kuala Lumpur,2022,1,a,3845
+Kuala Lumpur,2022,1,ab,817
+Kuala Lumpur,2022,1,all,15437
+Kuala Lumpur,2022,1,b,4189
+Kuala Lumpur,2022,1,o,6586
+Kuala Lumpur,2022,2,a,3612
+Kuala Lumpur,2022,2,ab,819
+Kuala Lumpur,2022,2,all,14543
+Kuala Lumpur,2022,2,b,3944
+Kuala Lumpur,2022,2,o,6167
+Kuala Lumpur,2022,3,a,4094
+Kuala Lumpur,2022,3,ab,927
+Kuala Lumpur,2022,3,all,16793
+Kuala Lumpur,2022,3,b,4576
+Kuala Lumpur,2022,3,o,7195
+Kuala Lumpur,2022,4,a,3065
+Kuala Lumpur,2022,4,ab,676
+Kuala Lumpur,2022,4,all,12674
+Kuala Lumpur,2022,4,b,3325
+Kuala Lumpur,2022,4,o,5608
+Kuala Lumpur,2022,5,a,4383
+Kuala Lumpur,2022,5,ab,901
+Kuala Lumpur,2022,5,all,17934
+Kuala Lumpur,2022,5,b,4892
+Kuala Lumpur,2022,5,o,7758
+Kuala Lumpur,2022,6,a,4830
+Kuala Lumpur,2022,6,ab,1033
+Kuala Lumpur,2022,6,all,19626
+Kuala Lumpur,2022,6,b,5384
+Kuala Lumpur,2022,6,o,8376
+Kuala Lumpur,2022,7,a,4528
+Kuala Lumpur,2022,7,ab,683
+Kuala Lumpur,2022,7,all,17872
+Kuala Lumpur,2022,7,b,4748
+Kuala Lumpur,2022,7,o,7912
+Kuala Lumpur,2022,8,a,4165
+Kuala Lumpur,2022,8,ab,948
+Kuala Lumpur,2022,8,all,16685
+Kuala Lumpur,2022,8,b,4602
+Kuala Lumpur,2022,8,o,6968
+Kuala Lumpur,2022,9,a,4141
+Kuala Lumpur,2022,9,ab,1049
+Kuala Lumpur,2022,9,all,17103
+Kuala Lumpur,2022,9,b,4636
+Kuala Lumpur,2022,9,o,7273
+Kuala Lumpur,2022,10,a,4804
+Kuala Lumpur,2022,10,ab,809
+Kuala Lumpur,2022,10,all,18900
+Kuala Lumpur,2022,10,b,5171
+Kuala Lumpur,2022,10,o,8115
+Kuala Lumpur,2022,11,a,3909
+Kuala Lumpur,2022,11,ab,844
+Kuala Lumpur,2022,11,all,15442
+Kuala Lumpur,2022,11,b,4249
+Kuala Lumpur,2022,11,o,6439
+Kuala Lumpur,2022,12,a,4895
+Kuala Lumpur,2022,12,ab,1108
+Kuala Lumpur,2022,12,all,19404
+Kuala Lumpur,2022,12,b,5258
+Kuala Lumpur,2022,12,o,8140
+Kuala Lumpur,2023,1,a,4302
+Kuala Lumpur,2023,1,ab,758
+Kuala Lumpur,2023,1,all,16949
+Kuala Lumpur,2023,1,b,4640
+Kuala Lumpur,2023,1,o,7247
+Kuala Lumpur,2023,2,a,4226
+Kuala Lumpur,2023,2,ab,985
+Kuala Lumpur,2023,2,all,17340
+Kuala Lumpur,2023,2,b,4700
+Kuala Lumpur,2023,2,o,7429
+Kuala Lumpur,2023,3,a,4703
+Kuala Lumpur,2023,3,ab,1034
+Kuala Lumpur,2023,3,all,19093
+Kuala Lumpur,2023,3,b,5299
+Kuala Lumpur,2023,3,o,8055
+Kuala Lumpur,2023,4,a,3197
+Kuala Lumpur,2023,4,ab,583
+Kuala Lumpur,2023,4,all,12535
+Kuala Lumpur,2023,4,b,3380
+Kuala Lumpur,2023,4,o,5374
+Kuala Lumpur,2023,5,a,4481
+Kuala Lumpur,2023,5,ab,1017
+Kuala Lumpur,2023,5,all,17944
+Kuala Lumpur,2023,5,b,4741
+Kuala Lumpur,2023,5,o,7702
+Kuala Lumpur,2023,6,a,5189
+Kuala Lumpur,2023,6,ab,947
+Kuala Lumpur,2023,6,all,20267
+Kuala Lumpur,2023,6,b,5633
+Kuala Lumpur,2023,6,o,8497
+Kuala Lumpur,2023,7,a,4598
+Kuala Lumpur,2023,7,ab,919
+Kuala Lumpur,2023,7,all,18337
+Kuala Lumpur,2023,7,b,4890
+Kuala Lumpur,2023,7,o,7930
+Kuala Lumpur,2023,8,a,4456
+Kuala Lumpur,2023,8,ab,798
+Kuala Lumpur,2023,8,all,17615
+Kuala Lumpur,2023,8,b,4735
+Kuala Lumpur,2023,8,o,7625
+Kuala Lumpur,2023,9,a,4026
+Kuala Lumpur,2023,9,ab,961
+Kuala Lumpur,2023,9,all,16466
+Kuala Lumpur,2023,9,b,4531
+Kuala Lumpur,2023,9,o,6944
+Kuala Lumpur,2023,10,a,4299
+Kuala Lumpur,2023,10,ab,738
+Kuala Lumpur,2023,10,all,16623
+Kuala Lumpur,2023,10,b,4538
+Kuala Lumpur,2023,10,o,7048
+Kuala Lumpur,2023,11,a,3854
+Kuala Lumpur,2023,11,ab,760
+Kuala Lumpur,2023,11,all,15401
+Kuala Lumpur,2023,11,b,4204
+Kuala Lumpur,2023,11,o,6583
+Kuala Lumpur,2023,12,a,4364
+Kuala Lumpur,2023,12,ab,1013
+Kuala Lumpur,2023,12,all,17718
+Kuala Lumpur,2023,12,b,4716
+Kuala Lumpur,2023,12,o,7624
+Kuala Lumpur,2024,1,a,4125
+Kuala Lumpur,2024,1,ab,820
+Kuala Lumpur,2024,1,all,16806
+Kuala Lumpur,2024,1,b,4637
+Kuala Lumpur,2024,1,o,7222
+Kuala Lumpur,2024,2,a,4237
+Kuala Lumpur,2024,2,ab,952
+Kuala Lumpur,2024,2,all,16929
+Kuala Lumpur,2024,2,b,4507
+Kuala Lumpur,2024,2,o,7232
+Kuala Lumpur,2024,3,a,4432
+Kuala Lumpur,2024,3,ab,983
+Kuala Lumpur,2024,3,all,17779
+Kuala Lumpur,2024,3,b,4712
+Kuala Lumpur,2024,3,o,7650
+Kuala Lumpur,2024,4,a,3770
+Kuala Lumpur,2024,4,ab,618
+Kuala Lumpur,2024,4,all,14684
+Kuala Lumpur,2024,4,b,3894
+Kuala Lumpur,2024,4,o,6401
+Kuala Lumpur,2024,5,a,5103
+Kuala Lumpur,2024,5,ab,1222
+Kuala Lumpur,2024,5,all,20115
+Kuala Lumpur,2024,5,b,5288
+Kuala Lumpur,2024,5,o,8500
+Kuala Lumpur,2024,6,a,4548
+Kuala Lumpur,2024,6,ab,679
+Kuala Lumpur,2024,6,all,17969
+Kuala Lumpur,2024,6,b,4967
+Kuala Lumpur,2024,6,o,7772
+Kuala Lumpur,2024,7,a,3956
+Kuala Lumpur,2024,7,ab,881
+Kuala Lumpur,2024,7,all,16022
+Kuala Lumpur,2024,7,b,4385
+Kuala Lumpur,2024,7,o,6798
+Kuala Lumpur,2024,8,a,4302
+Kuala Lumpur,2024,8,ab,981
+Kuala Lumpur,2024,8,all,17337
+Kuala Lumpur,2024,8,b,4652
+Kuala Lumpur,2024,8,o,7401
+Kuala Lumpur,2024,9,a,2241
+Kuala Lumpur,2024,9,ab,431
+Kuala Lumpur,2024,9,all,8364
+Kuala Lumpur,2024,9,b,2256
+Kuala Lumpur,2024,9,o,3436
+Melaka,2019,1,a,646
+Melaka,2019,1,ab,167
+Melaka,2019,1,all,2561
+Melaka,2019,1,b,675
+Melaka,2019,1,o,1073
+Melaka,2019,2,a,602
+Melaka,2019,2,ab,146
+Melaka,2019,2,all,2468
+Melaka,2019,2,b,669
+Melaka,2019,2,o,1051
+Melaka,2019,3,a,733
+Melaka,2019,3,ab,162
+Melaka,2019,3,all,2757
+Melaka,2019,3,b,682
+Melaka,2019,3,o,1180
+Melaka,2019,4,a,803
+Melaka,2019,4,ab,196
+Melaka,2019,4,all,3012
+Melaka,2019,4,b,733
+Melaka,2019,4,o,1280
+Melaka,2019,5,a,625
+Melaka,2019,5,ab,123
+Melaka,2019,5,all,2393
+Melaka,2019,5,b,640
+Melaka,2019,5,o,1005
+Melaka,2019,6,a,581
+Melaka,2019,6,ab,151
+Melaka,2019,6,all,2115
+Melaka,2019,6,b,512
+Melaka,2019,6,o,871
+Melaka,2019,7,a,824
+Melaka,2019,7,ab,189
+Melaka,2019,7,all,3103
+Melaka,2019,7,b,779
+Melaka,2019,7,o,1311
+Melaka,2019,8,a,600
+Melaka,2019,8,ab,155
+Melaka,2019,8,all,2525
+Melaka,2019,8,b,681
+Melaka,2019,8,o,1089
+Melaka,2019,9,a,575
+Melaka,2019,9,ab,139
+Melaka,2019,9,all,2270
+Melaka,2019,9,b,595
+Melaka,2019,9,o,961
+Melaka,2019,10,a,575
+Melaka,2019,10,ab,135
+Melaka,2019,10,all,2154
+Melaka,2019,10,b,548
+Melaka,2019,10,o,896
+Melaka,2019,11,a,487
+Melaka,2019,11,ab,113
+Melaka,2019,11,all,2006
+Melaka,2019,11,b,542
+Melaka,2019,11,o,864
+Melaka,2019,12,a,740
+Melaka,2019,12,ab,159
+Melaka,2019,12,all,2869
+Melaka,2019,12,b,733
+Melaka,2019,12,o,1237
+Melaka,2020,1,a,610
+Melaka,2020,1,ab,148
+Melaka,2020,1,all,2396
+Melaka,2020,1,b,613
+Melaka,2020,1,o,1025
+Melaka,2020,2,a,701
+Melaka,2020,2,ab,198
+Melaka,2020,2,all,2973
+Melaka,2020,2,b,813
+Melaka,2020,2,o,1261
+Melaka,2020,3,a,540
+Melaka,2020,3,ab,127
+Melaka,2020,3,all,2140
+Melaka,2020,3,b,560
+Melaka,2020,3,o,913
+Melaka,2020,4,a,424
+Melaka,2020,4,ab,91
+Melaka,2020,4,all,1585
+Melaka,2020,4,b,417
+Melaka,2020,4,o,653
+Melaka,2020,5,a,529
+Melaka,2020,5,ab,138
+Melaka,2020,5,all,2125
+Melaka,2020,5,b,574
+Melaka,2020,5,o,884
+Melaka,2020,6,a,579
+Melaka,2020,6,ab,142
+Melaka,2020,6,all,2290
+Melaka,2020,6,b,616
+Melaka,2020,6,o,953
+Melaka,2020,7,a,498
+Melaka,2020,7,ab,124
+Melaka,2020,7,all,1913
+Melaka,2020,7,b,493
+Melaka,2020,7,o,798
+Melaka,2020,8,a,940
+Melaka,2020,8,ab,199
+Melaka,2020,8,all,3431
+Melaka,2020,8,b,900
+Melaka,2020,8,o,1392
+Melaka,2020,9,a,490
+Melaka,2020,9,ab,111
+Melaka,2020,9,all,2105
+Melaka,2020,9,b,584
+Melaka,2020,9,o,920
+Melaka,2020,10,a,662
+Melaka,2020,10,ab,147
+Melaka,2020,10,all,2504
+Melaka,2020,10,b,707
+Melaka,2020,10,o,988
+Melaka,2020,11,a,567
+Melaka,2020,11,ab,132
+Melaka,2020,11,all,2095
+Melaka,2020,11,b,549
+Melaka,2020,11,o,847
+Melaka,2020,12,a,532
+Melaka,2020,12,ab,133
+Melaka,2020,12,all,1979
+Melaka,2020,12,b,490
+Melaka,2020,12,o,824
+Melaka,2021,1,a,561
+Melaka,2021,1,ab,171
+Melaka,2021,1,all,2269
+Melaka,2021,1,b,614
+Melaka,2021,1,o,923
+Melaka,2021,2,a,639
+Melaka,2021,2,ab,166
+Melaka,2021,2,all,2441
+Melaka,2021,2,b,662
+Melaka,2021,2,o,974
+Melaka,2021,3,a,604
+Melaka,2021,3,ab,163
+Melaka,2021,3,all,2469
+Melaka,2021,3,b,643
+Melaka,2021,3,o,1059
+Melaka,2021,4,a,545
+Melaka,2021,4,ab,129
+Melaka,2021,4,all,2100
+Melaka,2021,4,b,528
+Melaka,2021,4,o,898
+Melaka,2021,5,a,505
+Melaka,2021,5,ab,124
+Melaka,2021,5,all,1987
+Melaka,2021,5,b,544
+Melaka,2021,5,o,814
+Melaka,2021,6,a,680
+Melaka,2021,6,ab,186
+Melaka,2021,6,all,2717
+Melaka,2021,6,b,742
+Melaka,2021,6,o,1109
+Melaka,2021,7,a,494
+Melaka,2021,7,ab,107
+Melaka,2021,7,all,2030
+Melaka,2021,7,b,530
+Melaka,2021,7,o,899
+Melaka,2021,8,a,660
+Melaka,2021,8,ab,179
+Melaka,2021,8,all,2575
+Melaka,2021,8,b,681
+Melaka,2021,8,o,1055
+Melaka,2021,9,a,505
+Melaka,2021,9,ab,121
+Melaka,2021,9,all,2073
+Melaka,2021,9,b,545
+Melaka,2021,9,o,902
+Melaka,2021,10,a,597
+Melaka,2021,10,ab,130
+Melaka,2021,10,all,2322
+Melaka,2021,10,b,645
+Melaka,2021,10,o,950
+Melaka,2021,11,a,588
+Melaka,2021,11,ab,153
+Melaka,2021,11,all,2340
+Melaka,2021,11,b,612
+Melaka,2021,11,o,987
+Melaka,2021,12,a,704
+Melaka,2021,12,ab,159
+Melaka,2021,12,all,2633
+Melaka,2021,12,b,725
+Melaka,2021,12,o,1045
+Melaka,2022,1,a,604
+Melaka,2022,1,ab,123
+Melaka,2022,1,all,2264
+Melaka,2022,1,b,591
+Melaka,2022,1,o,946
+Melaka,2022,2,a,544
+Melaka,2022,2,ab,117
+Melaka,2022,2,all,2067
+Melaka,2022,2,b,541
+Melaka,2022,2,o,865
+Melaka,2022,3,a,704
+Melaka,2022,3,ab,179
+Melaka,2022,3,all,2816
+Melaka,2022,3,b,757
+Melaka,2022,3,o,1176
+Melaka,2022,4,a,567
+Melaka,2022,4,ab,127
+Melaka,2022,4,all,2248
+Melaka,2022,4,b,605
+Melaka,2022,4,o,949
+Melaka,2022,5,a,656
+Melaka,2022,5,ab,144
+Melaka,2022,5,all,2740
+Melaka,2022,5,b,731
+Melaka,2022,5,o,1209
+Melaka,2022,6,a,716
+Melaka,2022,6,ab,170
+Melaka,2022,6,all,2801
+Melaka,2022,6,b,735
+Melaka,2022,6,o,1180
+Melaka,2022,7,a,638
+Melaka,2022,7,ab,148
+Melaka,2022,7,all,2551
+Melaka,2022,7,b,685
+Melaka,2022,7,o,1080
+Melaka,2022,8,a,807
+Melaka,2022,8,ab,206
+Melaka,2022,8,all,3183
+Melaka,2022,8,b,821
+Melaka,2022,8,o,1349
+Melaka,2022,9,a,589
+Melaka,2022,9,ab,131
+Melaka,2022,9,all,2408
+Melaka,2022,9,b,614
+Melaka,2022,9,o,1074
+Melaka,2022,10,a,619
+Melaka,2022,10,ab,160
+Melaka,2022,10,all,2548
+Melaka,2022,10,b,695
+Melaka,2022,10,o,1074
+Melaka,2022,11,a,627
+Melaka,2022,11,ab,165
+Melaka,2022,11,all,2481
+Melaka,2022,11,b,675
+Melaka,2022,11,o,1014
+Melaka,2022,12,a,605
+Melaka,2022,12,ab,125
+Melaka,2022,12,all,2403
+Melaka,2022,12,b,664
+Melaka,2022,12,o,1009
+Melaka,2023,1,a,478
+Melaka,2023,1,ab,137
+Melaka,2023,1,all,2029
+Melaka,2023,1,b,544
+Melaka,2023,1,o,870
+Melaka,2023,2,a,550
+Melaka,2023,2,ab,129
+Melaka,2023,2,all,2115
+Melaka,2023,2,b,558
+Melaka,2023,2,o,878
+Melaka,2023,3,a,700
+Melaka,2023,3,ab,168
+Melaka,2023,3,all,2680
+Melaka,2023,3,b,722
+Melaka,2023,3,o,1090
+Melaka,2023,4,a,571
+Melaka,2023,4,ab,131
+Melaka,2023,4,all,2218
+Melaka,2023,4,b,589
+Melaka,2023,4,o,927
+Melaka,2023,5,a,692
+Melaka,2023,5,ab,153
+Melaka,2023,5,all,2569
+Melaka,2023,5,b,652
+Melaka,2023,5,o,1071
+Melaka,2023,6,a,656
+Melaka,2023,6,ab,136
+Melaka,2023,6,all,2517
+Melaka,2023,6,b,656
+Melaka,2023,6,o,1069
+Melaka,2023,7,a,677
+Melaka,2023,7,ab,187
+Melaka,2023,7,all,2657
+Melaka,2023,7,b,682
+Melaka,2023,7,o,1111
+Melaka,2023,8,a,618
+Melaka,2023,8,ab,140
+Melaka,2023,8,all,2433
+Melaka,2023,8,b,681
+Melaka,2023,8,o,994
+Melaka,2023,9,a,576
+Melaka,2023,9,ab,132
+Melaka,2023,9,all,2217
+Melaka,2023,9,b,575
+Melaka,2023,9,o,934
+Melaka,2023,10,a,631
+Melaka,2023,10,ab,170
+Melaka,2023,10,all,2524
+Melaka,2023,10,b,671
+Melaka,2023,10,o,1052
+Melaka,2023,11,a,601
+Melaka,2023,11,ab,148
+Melaka,2023,11,all,2384
+Melaka,2023,11,b,652
+Melaka,2023,11,o,983
+Melaka,2023,12,a,530
+Melaka,2023,12,ab,124
+Melaka,2023,12,all,2102
+Melaka,2023,12,b,550
+Melaka,2023,12,o,898
+Melaka,2024,1,a,556
+Melaka,2024,1,ab,147
+Melaka,2024,1,all,2347
+Melaka,2024,1,b,608
+Melaka,2024,1,o,1036
+Melaka,2024,2,a,606
+Melaka,2024,2,ab,158
+Melaka,2024,2,all,2433
+Melaka,2024,2,b,693
+Melaka,2024,2,o,976
+Melaka,2024,3,a,702
+Melaka,2024,3,ab,183
+Melaka,2024,3,all,2743
+Melaka,2024,3,b,731
+Melaka,2024,3,o,1127
+Melaka,2024,4,a,460
+Melaka,2024,4,ab,113
+Melaka,2024,4,all,1710
+Melaka,2024,4,b,453
+Melaka,2024,4,o,684
+Melaka,2024,5,a,681
+Melaka,2024,5,ab,164
+Melaka,2024,5,all,2761
+Melaka,2024,5,b,744
+Melaka,2024,5,o,1172
+Melaka,2024,6,a,549
+Melaka,2024,6,ab,143
+Melaka,2024,6,all,2343
+Melaka,2024,6,b,645
+Melaka,2024,6,o,1006
+Melaka,2024,7,a,594
+Melaka,2024,7,ab,166
+Melaka,2024,7,all,2377
+Melaka,2024,7,b,623
+Melaka,2024,7,o,994
+Melaka,2024,8,a,641
+Melaka,2024,8,ab,148
+Melaka,2024,8,all,2520
+Melaka,2024,8,b,682
+Melaka,2024,8,o,1049
+Melaka,2024,9,a,403
+Melaka,2024,9,ab,110
+Melaka,2024,9,all,1454
+Melaka,2024,9,b,339
+Melaka,2024,9,o,602
+Negeri Sembilan,2019,1,a,375
+Negeri Sembilan,2019,1,ab,79
+Negeri Sembilan,2019,1,all,1444
+Negeri Sembilan,2019,1,b,414
+Negeri Sembilan,2019,1,o,576
+Negeri Sembilan,2019,2,a,400
+Negeri Sembilan,2019,2,ab,65
+Negeri Sembilan,2019,2,all,1563
+Negeri Sembilan,2019,2,b,419
+Negeri Sembilan,2019,2,o,679
+Negeri Sembilan,2019,3,a,444
+Negeri Sembilan,2019,3,ab,84
+Negeri Sembilan,2019,3,all,1794
+Negeri Sembilan,2019,3,b,489
+Negeri Sembilan,2019,3,o,777
+Negeri Sembilan,2019,4,a,405
+Negeri Sembilan,2019,4,ab,129
+Negeri Sembilan,2019,4,all,1736
+Negeri Sembilan,2019,4,b,493
+Negeri Sembilan,2019,4,o,709
+Negeri Sembilan,2019,5,a,230
+Negeri Sembilan,2019,5,ab,30
+Negeri Sembilan,2019,5,all,941
+Negeri Sembilan,2019,5,b,278
+Negeri Sembilan,2019,5,o,403
+Negeri Sembilan,2019,6,a,340
+Negeri Sembilan,2019,6,ab,94
+Negeri Sembilan,2019,6,all,1491
+Negeri Sembilan,2019,6,b,397
+Negeri Sembilan,2019,6,o,660
+Negeri Sembilan,2019,7,a,389
+Negeri Sembilan,2019,7,ab,109
+Negeri Sembilan,2019,7,all,1657
+Negeri Sembilan,2019,7,b,434
+Negeri Sembilan,2019,7,o,725
+Negeri Sembilan,2019,8,a,440
+Negeri Sembilan,2019,8,ab,131
+Negeri Sembilan,2019,8,all,1826
+Negeri Sembilan,2019,8,b,504
+Negeri Sembilan,2019,8,o,751
+Negeri Sembilan,2019,9,a,332
+Negeri Sembilan,2019,9,ab,93
+Negeri Sembilan,2019,9,all,1403
+Negeri Sembilan,2019,9,b,381
+Negeri Sembilan,2019,9,o,597
+Negeri Sembilan,2019,10,a,338
+Negeri Sembilan,2019,10,ab,84
+Negeri Sembilan,2019,10,all,1365
+Negeri Sembilan,2019,10,b,365
+Negeri Sembilan,2019,10,o,578
+Negeri Sembilan,2019,11,a,400
+Negeri Sembilan,2019,11,ab,78
+Negeri Sembilan,2019,11,all,1521
+Negeri Sembilan,2019,11,b,338
+Negeri Sembilan,2019,11,o,705
+Negeri Sembilan,2019,12,a,370
+Negeri Sembilan,2019,12,ab,106
+Negeri Sembilan,2019,12,all,1565
+Negeri Sembilan,2019,12,b,453
+Negeri Sembilan,2019,12,o,636
+Negeri Sembilan,2020,1,a,348
+Negeri Sembilan,2020,1,ab,99
+Negeri Sembilan,2020,1,all,1463
+Negeri Sembilan,2020,1,b,406
+Negeri Sembilan,2020,1,o,610
+Negeri Sembilan,2020,2,a,395
+Negeri Sembilan,2020,2,ab,108
+Negeri Sembilan,2020,2,all,1622
+Negeri Sembilan,2020,2,b,439
+Negeri Sembilan,2020,2,o,680
+Negeri Sembilan,2020,3,a,361
+Negeri Sembilan,2020,3,ab,83
+Negeri Sembilan,2020,3,all,1466
+Negeri Sembilan,2020,3,b,387
+Negeri Sembilan,2020,3,o,635
+Negeri Sembilan,2020,4,a,167
+Negeri Sembilan,2020,4,ab,29
+Negeri Sembilan,2020,4,all,722
+Negeri Sembilan,2020,4,b,183
+Negeri Sembilan,2020,4,o,343
+Negeri Sembilan,2020,5,a,323
+Negeri Sembilan,2020,5,ab,98
+Negeri Sembilan,2020,5,all,1368
+Negeri Sembilan,2020,5,b,363
+Negeri Sembilan,2020,5,o,584
+Negeri Sembilan,2020,6,a,404
+Negeri Sembilan,2020,6,ab,77
+Negeri Sembilan,2020,6,all,1611
+Negeri Sembilan,2020,6,b,435
+Negeri Sembilan,2020,6,o,695
+Negeri Sembilan,2020,7,a,349
+Negeri Sembilan,2020,7,ab,76
+Negeri Sembilan,2020,7,all,1396
+Negeri Sembilan,2020,7,b,384
+Negeri Sembilan,2020,7,o,587
+Negeri Sembilan,2020,8,a,332
+Negeri Sembilan,2020,8,ab,74
+Negeri Sembilan,2020,8,all,1368
+Negeri Sembilan,2020,8,b,385
+Negeri Sembilan,2020,8,o,577
+Negeri Sembilan,2020,9,a,359
+Negeri Sembilan,2020,9,ab,90
+Negeri Sembilan,2020,9,all,1482
+Negeri Sembilan,2020,9,b,413
+Negeri Sembilan,2020,9,o,620
+Negeri Sembilan,2020,10,a,308
+Negeri Sembilan,2020,10,ab,60
+Negeri Sembilan,2020,10,all,1181
+Negeri Sembilan,2020,10,b,342
+Negeri Sembilan,2020,10,o,471
+Negeri Sembilan,2020,11,a,314
+Negeri Sembilan,2020,11,ab,103
+Negeri Sembilan,2020,11,all,1435
+Negeri Sembilan,2020,11,b,428
+Negeri Sembilan,2020,11,o,590
+Negeri Sembilan,2020,12,a,328
+Negeri Sembilan,2020,12,ab,86
+Negeri Sembilan,2020,12,all,1284
+Negeri Sembilan,2020,12,b,363
+Negeri Sembilan,2020,12,o,507
+Negeri Sembilan,2021,1,a,292
+Negeri Sembilan,2021,1,ab,41
+Negeri Sembilan,2021,1,all,1219
+Negeri Sembilan,2021,1,b,343
+Negeri Sembilan,2021,1,o,543
+Negeri Sembilan,2021,2,a,393
+Negeri Sembilan,2021,2,ab,82
+Negeri Sembilan,2021,2,all,1578
+Negeri Sembilan,2021,2,b,444
+Negeri Sembilan,2021,2,o,659
+Negeri Sembilan,2021,3,a,280
+Negeri Sembilan,2021,3,ab,56
+Negeri Sembilan,2021,3,all,1193
+Negeri Sembilan,2021,3,b,334
+Negeri Sembilan,2021,3,o,523
+Negeri Sembilan,2021,4,a,348
+Negeri Sembilan,2021,4,ab,86
+Negeri Sembilan,2021,4,all,1330
+Negeri Sembilan,2021,4,b,330
+Negeri Sembilan,2021,4,o,566
+Negeri Sembilan,2021,5,a,354
+Negeri Sembilan,2021,5,ab,81
+Negeri Sembilan,2021,5,all,1449
+Negeri Sembilan,2021,5,b,379
+Negeri Sembilan,2021,5,o,635
+Negeri Sembilan,2021,6,a,188
+Negeri Sembilan,2021,6,ab,47
+Negeri Sembilan,2021,6,all,798
+Negeri Sembilan,2021,6,b,221
+Negeri Sembilan,2021,6,o,342
+Negeri Sembilan,2021,7,a,198
+Negeri Sembilan,2021,7,ab,50
+Negeri Sembilan,2021,7,all,888
+Negeri Sembilan,2021,7,b,261
+Negeri Sembilan,2021,7,o,379
+Negeri Sembilan,2021,8,a,461
+Negeri Sembilan,2021,8,ab,118
+Negeri Sembilan,2021,8,all,1883
+Negeri Sembilan,2021,8,b,507
+Negeri Sembilan,2021,8,o,797
+Negeri Sembilan,2021,9,a,340
+Negeri Sembilan,2021,9,ab,87
+Negeri Sembilan,2021,9,all,1408
+Negeri Sembilan,2021,9,b,349
+Negeri Sembilan,2021,9,o,632
+Negeri Sembilan,2021,10,a,239
+Negeri Sembilan,2021,10,ab,54
+Negeri Sembilan,2021,10,all,962
+Negeri Sembilan,2021,10,b,269
+Negeri Sembilan,2021,10,o,400
+Negeri Sembilan,2021,11,a,221
+Negeri Sembilan,2021,11,ab,59
+Negeri Sembilan,2021,11,all,980
+Negeri Sembilan,2021,11,b,297
+Negeri Sembilan,2021,11,o,403
+Negeri Sembilan,2021,12,a,295
+Negeri Sembilan,2021,12,ab,97
+Negeri Sembilan,2021,12,all,1247
+Negeri Sembilan,2021,12,b,337
+Negeri Sembilan,2021,12,o,518
+Negeri Sembilan,2022,1,a,323
+Negeri Sembilan,2022,1,ab,45
+Negeri Sembilan,2022,1,all,1266
+Negeri Sembilan,2022,1,b,332
+Negeri Sembilan,2022,1,o,566
+Negeri Sembilan,2022,2,a,287
+Negeri Sembilan,2022,2,ab,75
+Negeri Sembilan,2022,2,all,1181
+Negeri Sembilan,2022,2,b,320
+Negeri Sembilan,2022,2,o,499
+Negeri Sembilan,2022,3,a,359
+Negeri Sembilan,2022,3,ab,89
+Negeri Sembilan,2022,3,all,1492
+Negeri Sembilan,2022,3,b,410
+Negeri Sembilan,2022,3,o,634
+Negeri Sembilan,2022,4,a,245
+Negeri Sembilan,2022,4,ab,29
+Negeri Sembilan,2022,4,all,952
+Negeri Sembilan,2022,4,b,251
+Negeri Sembilan,2022,4,o,427
+Negeri Sembilan,2022,5,a,357
+Negeri Sembilan,2022,5,ab,85
+Negeri Sembilan,2022,5,all,1629
+Negeri Sembilan,2022,5,b,467
+Negeri Sembilan,2022,5,o,720
+Negeri Sembilan,2022,6,a,367
+Negeri Sembilan,2022,6,ab,65
+Negeri Sembilan,2022,6,all,1522
+Negeri Sembilan,2022,6,b,423
+Negeri Sembilan,2022,6,o,667
+Negeri Sembilan,2022,7,a,312
+Negeri Sembilan,2022,7,ab,54
+Negeri Sembilan,2022,7,all,1219
+Negeri Sembilan,2022,7,b,299
+Negeri Sembilan,2022,7,o,554
+Negeri Sembilan,2022,8,a,319
+Negeri Sembilan,2022,8,ab,90
+Negeri Sembilan,2022,8,all,1361
+Negeri Sembilan,2022,8,b,334
+Negeri Sembilan,2022,8,o,618
+Negeri Sembilan,2022,9,a,385
+Negeri Sembilan,2022,9,ab,63
+Negeri Sembilan,2022,9,all,1384
+Negeri Sembilan,2022,9,b,363
+Negeri Sembilan,2022,9,o,573
+Negeri Sembilan,2022,10,a,322
+Negeri Sembilan,2022,10,ab,42
+Negeri Sembilan,2022,10,all,1247
+Negeri Sembilan,2022,10,b,335
+Negeri Sembilan,2022,10,o,548
+Negeri Sembilan,2022,11,a,349
+Negeri Sembilan,2022,11,ab,61
+Negeri Sembilan,2022,11,all,1348
+Negeri Sembilan,2022,11,b,368
+Negeri Sembilan,2022,11,o,570
+Negeri Sembilan,2022,12,a,348
+Negeri Sembilan,2022,12,ab,72
+Negeri Sembilan,2022,12,all,1316
+Negeri Sembilan,2022,12,b,338
+Negeri Sembilan,2022,12,o,558
+Negeri Sembilan,2023,1,a,333
+Negeri Sembilan,2023,1,ab,73
+Negeri Sembilan,2023,1,all,1347
+Negeri Sembilan,2023,1,b,370
+Negeri Sembilan,2023,1,o,571
+Negeri Sembilan,2023,2,a,320
+Negeri Sembilan,2023,2,ab,84
+Negeri Sembilan,2023,2,all,1362
+Negeri Sembilan,2023,2,b,359
+Negeri Sembilan,2023,2,o,599
+Negeri Sembilan,2023,3,a,378
+Negeri Sembilan,2023,3,ab,77
+Negeri Sembilan,2023,3,all,1464
+Negeri Sembilan,2023,3,b,394
+Negeri Sembilan,2023,3,o,615
+Negeri Sembilan,2023,4,a,226
+Negeri Sembilan,2023,4,ab,66
+Negeri Sembilan,2023,4,all,924
+Negeri Sembilan,2023,4,b,241
+Negeri Sembilan,2023,4,o,391
+Negeri Sembilan,2023,5,a,400
+Negeri Sembilan,2023,5,ab,12
+Negeri Sembilan,2023,5,all,1569
+Negeri Sembilan,2023,5,b,421
+Negeri Sembilan,2023,5,o,736
+Negeri Sembilan,2023,6,a,385
+Negeri Sembilan,2023,6,ab,99
+Negeri Sembilan,2023,6,all,1482
+Negeri Sembilan,2023,6,b,410
+Negeri Sembilan,2023,6,o,588
+Negeri Sembilan,2023,7,a,322
+Negeri Sembilan,2023,7,ab,47
+Negeri Sembilan,2023,7,all,1214
+Negeri Sembilan,2023,7,b,335
+Negeri Sembilan,2023,7,o,510
+Negeri Sembilan,2023,8,a,387
+Negeri Sembilan,2023,8,ab,99
+Negeri Sembilan,2023,8,all,1663
+Negeri Sembilan,2023,8,b,429
+Negeri Sembilan,2023,8,o,748
+Negeri Sembilan,2023,9,a,312
+Negeri Sembilan,2023,9,ab,40
+Negeri Sembilan,2023,9,all,1231
+Negeri Sembilan,2023,9,b,313
+Negeri Sembilan,2023,9,o,566
+Negeri Sembilan,2023,10,a,361
+Negeri Sembilan,2023,10,ab,89
+Negeri Sembilan,2023,10,all,1455
+Negeri Sembilan,2023,10,b,406
+Negeri Sembilan,2023,10,o,599
+Negeri Sembilan,2023,11,a,327
+Negeri Sembilan,2023,11,ab,81
+Negeri Sembilan,2023,11,all,1380
+Negeri Sembilan,2023,11,b,368
+Negeri Sembilan,2023,11,o,604
+Negeri Sembilan,2023,12,a,301
+Negeri Sembilan,2023,12,ab,90
+Negeri Sembilan,2023,12,all,1326
+Negeri Sembilan,2023,12,b,332
+Negeri Sembilan,2023,12,o,603
+Negeri Sembilan,2024,1,a,446
+Negeri Sembilan,2024,1,ab,95
+Negeri Sembilan,2024,1,all,1694
+Negeri Sembilan,2024,1,b,452
+Negeri Sembilan,2024,1,o,701
+Negeri Sembilan,2024,2,a,414
+Negeri Sembilan,2024,2,ab,62
+Negeri Sembilan,2024,2,all,1647
+Negeri Sembilan,2024,2,b,437
+Negeri Sembilan,2024,2,o,734
+Negeri Sembilan,2024,3,a,331
+Negeri Sembilan,2024,3,ab,26
+Negeri Sembilan,2024,3,all,1351
+Negeri Sembilan,2024,3,b,389
+Negeri Sembilan,2024,3,o,605
+Negeri Sembilan,2024,4,a,248
+Negeri Sembilan,2024,4,ab,84
+Negeri Sembilan,2024,4,all,1049
+Negeri Sembilan,2024,4,b,274
+Negeri Sembilan,2024,4,o,443
+Negeri Sembilan,2024,5,a,363
+Negeri Sembilan,2024,5,ab,70
+Negeri Sembilan,2024,5,all,1464
+Negeri Sembilan,2024,5,b,417
+Negeri Sembilan,2024,5,o,614
+Negeri Sembilan,2024,6,a,345
+Negeri Sembilan,2024,6,ab,88
+Negeri Sembilan,2024,6,all,1412
+Negeri Sembilan,2024,6,b,386
+Negeri Sembilan,2024,6,o,593
+Negeri Sembilan,2024,7,a,331
+Negeri Sembilan,2024,7,ab,90
+Negeri Sembilan,2024,7,all,1439
+Negeri Sembilan,2024,7,b,383
+Negeri Sembilan,2024,7,o,635
+Negeri Sembilan,2024,8,a,312
+Negeri Sembilan,2024,8,ab,58
+Negeri Sembilan,2024,8,all,1213
+Negeri Sembilan,2024,8,b,339
+Negeri Sembilan,2024,8,o,504
+Negeri Sembilan,2024,9,a,166
+Negeri Sembilan,2024,9,ab,18
+Negeri Sembilan,2024,9,all,622
+Negeri Sembilan,2024,9,b,168
+Negeri Sembilan,2024,9,o,270
+Pahang,2019,1,a,151
+Pahang,2019,1,ab,30
+Pahang,2019,1,all,631
+Pahang,2019,1,b,204
+Pahang,2019,1,o,246
+Pahang,2019,2,a,134
+Pahang,2019,2,ab,20
+Pahang,2019,2,all,487
+Pahang,2019,2,b,145
+Pahang,2019,2,o,188
+Pahang,2019,3,a,112
+Pahang,2019,3,ab,20
+Pahang,2019,3,all,412
+Pahang,2019,3,b,112
+Pahang,2019,3,o,168
+Pahang,2019,4,a,173
+Pahang,2019,4,ab,36
+Pahang,2019,4,all,653
+Pahang,2019,4,b,169
+Pahang,2019,4,o,275
+Pahang,2019,5,a,194
+Pahang,2019,5,ab,44
+Pahang,2019,5,all,811
+Pahang,2019,5,b,247
+Pahang,2019,5,o,326
+Pahang,2019,6,a,440
+Pahang,2019,6,ab,137
+Pahang,2019,6,all,1893
+Pahang,2019,6,b,530
+Pahang,2019,6,o,786
+Pahang,2019,7,a,483
+Pahang,2019,7,ab,133
+Pahang,2019,7,all,1951
+Pahang,2019,7,b,526
+Pahang,2019,7,o,809
+Pahang,2019,8,a,393
+Pahang,2019,8,ab,105
+Pahang,2019,8,all,1558
+Pahang,2019,8,b,449
+Pahang,2019,8,o,611
+Pahang,2019,9,a,541
+Pahang,2019,9,ab,163
+Pahang,2019,9,all,2230
+Pahang,2019,9,b,616
+Pahang,2019,9,o,910
+Pahang,2019,10,a,473
+Pahang,2019,10,ab,129
+Pahang,2019,10,all,1933
+Pahang,2019,10,b,524
+Pahang,2019,10,o,807
+Pahang,2019,11,a,389
+Pahang,2019,11,ab,99
+Pahang,2019,11,all,1609
+Pahang,2019,11,b,449
+Pahang,2019,11,o,672
+Pahang,2019,12,a,389
+Pahang,2019,12,ab,119
+Pahang,2019,12,all,1642
+Pahang,2019,12,b,476
+Pahang,2019,12,o,658
+Pahang,2020,1,a,534
+Pahang,2020,1,ab,145
+Pahang,2020,1,all,2106
+Pahang,2020,1,b,600
+Pahang,2020,1,o,827
+Pahang,2020,2,a,495
+Pahang,2020,2,ab,141
+Pahang,2020,2,all,2038
+Pahang,2020,2,b,607
+Pahang,2020,2,o,795
+Pahang,2020,3,a,460
+Pahang,2020,3,ab,99
+Pahang,2020,3,all,1803
+Pahang,2020,3,b,498
+Pahang,2020,3,o,746
+Pahang,2020,4,a,351
+Pahang,2020,4,ab,87
+Pahang,2020,4,all,1268
+Pahang,2020,4,b,347
+Pahang,2020,4,o,483
+Pahang,2020,5,a,303
+Pahang,2020,5,ab,95
+Pahang,2020,5,all,1337
+Pahang,2020,5,b,388
+Pahang,2020,5,o,551
+Pahang,2020,6,a,553
+Pahang,2020,6,ab,126
+Pahang,2020,6,all,2083
+Pahang,2020,6,b,586
+Pahang,2020,6,o,818
+Pahang,2020,7,a,373
+Pahang,2020,7,ab,94
+Pahang,2020,7,all,1512
+Pahang,2020,7,b,403
+Pahang,2020,7,o,642
+Pahang,2020,8,a,615
+Pahang,2020,8,ab,137
+Pahang,2020,8,all,2189
+Pahang,2020,8,b,592
+Pahang,2020,8,o,845
+Pahang,2020,9,a,414
+Pahang,2020,9,ab,111
+Pahang,2020,9,all,1748
+Pahang,2020,9,b,517
+Pahang,2020,9,o,706
+Pahang,2020,10,a,579
+Pahang,2020,10,ab,109
+Pahang,2020,10,all,2118
+Pahang,2020,10,b,601
+Pahang,2020,10,o,829
+Pahang,2020,11,a,538
+Pahang,2020,11,ab,116
+Pahang,2020,11,all,2072
+Pahang,2020,11,b,593
+Pahang,2020,11,o,825
+Pahang,2020,12,a,505
+Pahang,2020,12,ab,119
+Pahang,2020,12,all,1881
+Pahang,2020,12,b,538
+Pahang,2020,12,o,719
+Pahang,2021,1,a,339
+Pahang,2021,1,ab,103
+Pahang,2021,1,all,1471
+Pahang,2021,1,b,432
+Pahang,2021,1,o,597
+Pahang,2021,2,a,479
+Pahang,2021,2,ab,100
+Pahang,2021,2,all,1841
+Pahang,2021,2,b,542
+Pahang,2021,2,o,720
+Pahang,2021,3,a,540
+Pahang,2021,3,ab,137
+Pahang,2021,3,all,2328
+Pahang,2021,3,b,689
+Pahang,2021,3,o,962
+Pahang,2021,4,a,505
+Pahang,2021,4,ab,105
+Pahang,2021,4,all,1839
+Pahang,2021,4,b,478
+Pahang,2021,4,o,751
+Pahang,2021,5,a,489
+Pahang,2021,5,ab,106
+Pahang,2021,5,all,1819
+Pahang,2021,5,b,463
+Pahang,2021,5,o,761
+Pahang,2021,6,a,510
+Pahang,2021,6,ab,141
+Pahang,2021,6,all,2078
+Pahang,2021,6,b,593
+Pahang,2021,6,o,834
+Pahang,2021,7,a,389
+Pahang,2021,7,ab,104
+Pahang,2021,7,all,1594
+Pahang,2021,7,b,476
+Pahang,2021,7,o,625
+Pahang,2021,8,a,527
+Pahang,2021,8,ab,133
+Pahang,2021,8,all,1963
+Pahang,2021,8,b,546
+Pahang,2021,8,o,757
+Pahang,2021,9,a,500
+Pahang,2021,9,ab,109
+Pahang,2021,9,all,1835
+Pahang,2021,9,b,506
+Pahang,2021,9,o,720
+Pahang,2021,10,a,485
+Pahang,2021,10,ab,135
+Pahang,2021,10,all,1984
+Pahang,2021,10,b,565
+Pahang,2021,10,o,799
+Pahang,2021,11,a,533
+Pahang,2021,11,ab,143
+Pahang,2021,11,all,2230
+Pahang,2021,11,b,580
+Pahang,2021,11,o,974
+Pahang,2021,12,a,471
+Pahang,2021,12,ab,124
+Pahang,2021,12,all,1846
+Pahang,2021,12,b,512
+Pahang,2021,12,o,739
+Pahang,2022,1,a,582
+Pahang,2022,1,ab,145
+Pahang,2022,1,all,2309
+Pahang,2022,1,b,641
+Pahang,2022,1,o,941
+Pahang,2022,2,a,387
+Pahang,2022,2,ab,107
+Pahang,2022,2,all,1642
+Pahang,2022,2,b,451
+Pahang,2022,2,o,697
+Pahang,2022,3,a,551
+Pahang,2022,3,ab,129
+Pahang,2022,3,all,2239
+Pahang,2022,3,b,649
+Pahang,2022,3,o,910
+Pahang,2022,4,a,476
+Pahang,2022,4,ab,89
+Pahang,2022,4,all,1772
+Pahang,2022,4,b,468
+Pahang,2022,4,o,739
+Pahang,2022,5,a,585
+Pahang,2022,5,ab,151
+Pahang,2022,5,all,2221
+Pahang,2022,5,b,575
+Pahang,2022,5,o,910
+Pahang,2022,6,a,531
+Pahang,2022,6,ab,142
+Pahang,2022,6,all,2245
+Pahang,2022,6,b,648
+Pahang,2022,6,o,924
+Pahang,2022,7,a,478
+Pahang,2022,7,ab,122
+Pahang,2022,7,all,1857
+Pahang,2022,7,b,528
+Pahang,2022,7,o,729
+Pahang,2022,8,a,503
+Pahang,2022,8,ab,111
+Pahang,2022,8,all,1909
+Pahang,2022,8,b,529
+Pahang,2022,8,o,765
+Pahang,2022,9,a,490
+Pahang,2022,9,ab,124
+Pahang,2022,9,all,1855
+Pahang,2022,9,b,518
+Pahang,2022,9,o,722
+Pahang,2022,10,a,444
+Pahang,2022,10,ab,112
+Pahang,2022,10,all,1791
+Pahang,2022,10,b,483
+Pahang,2022,10,o,752
+Pahang,2022,11,a,529
+Pahang,2022,11,ab,118
+Pahang,2022,11,all,2096
+Pahang,2022,11,b,600
+Pahang,2022,11,o,849
+Pahang,2022,12,a,513
+Pahang,2022,12,ab,109
+Pahang,2022,12,all,1915
+Pahang,2022,12,b,523
+Pahang,2022,12,o,770
+Pahang,2023,1,a,473
+Pahang,2023,1,ab,87
+Pahang,2023,1,all,1705
+Pahang,2023,1,b,424
+Pahang,2023,1,o,721
+Pahang,2023,2,a,547
+Pahang,2023,2,ab,134
+Pahang,2023,2,all,2115
+Pahang,2023,2,b,609
+Pahang,2023,2,o,824
+Pahang,2023,3,a,583
+Pahang,2023,3,ab,126
+Pahang,2023,3,all,2329
+Pahang,2023,3,b,656
+Pahang,2023,3,o,964
+Pahang,2023,4,a,409
+Pahang,2023,4,ab,73
+Pahang,2023,4,all,1552
+Pahang,2023,4,b,417
+Pahang,2023,4,o,653
+Pahang,2023,5,a,616
+Pahang,2023,5,ab,127
+Pahang,2023,5,all,2383
+Pahang,2023,5,b,666
+Pahang,2023,5,o,974
+Pahang,2023,6,a,482
+Pahang,2023,6,ab,131
+Pahang,2023,6,all,1943
+Pahang,2023,6,b,573
+Pahang,2023,6,o,757
+Pahang,2023,7,a,504
+Pahang,2023,7,ab,117
+Pahang,2023,7,all,1927
+Pahang,2023,7,b,545
+Pahang,2023,7,o,761
+Pahang,2023,8,a,468
+Pahang,2023,8,ab,112
+Pahang,2023,8,all,1757
+Pahang,2023,8,b,469
+Pahang,2023,8,o,708
+Pahang,2023,9,a,381
+Pahang,2023,9,ab,116
+Pahang,2023,9,all,1713
+Pahang,2023,9,b,501
+Pahang,2023,9,o,714
+Pahang,2023,10,a,479
+Pahang,2023,10,ab,102
+Pahang,2023,10,all,1872
+Pahang,2023,10,b,545
+Pahang,2023,10,o,746
+Pahang,2023,11,a,329
+Pahang,2023,11,ab,91
+Pahang,2023,11,all,1370
+Pahang,2023,11,b,425
+Pahang,2023,11,o,525
+Pahang,2023,12,a,530
+Pahang,2023,12,ab,126
+Pahang,2023,12,all,2137
+Pahang,2023,12,b,565
+Pahang,2023,12,o,916
+Pahang,2024,1,a,550
+Pahang,2024,1,ab,110
+Pahang,2024,1,all,2128
+Pahang,2024,1,b,599
+Pahang,2024,1,o,869
+Pahang,2024,2,a,475
+Pahang,2024,2,ab,115
+Pahang,2024,2,all,1969
+Pahang,2024,2,b,584
+Pahang,2024,2,o,795
+Pahang,2024,3,a,542
+Pahang,2024,3,ab,139
+Pahang,2024,3,all,2198
+Pahang,2024,3,b,580
+Pahang,2024,3,o,937
+Pahang,2024,4,a,472
+Pahang,2024,4,ab,104
+Pahang,2024,4,all,1814
+Pahang,2024,4,b,501
+Pahang,2024,4,o,737
+Pahang,2024,5,a,523
+Pahang,2024,5,ab,106
+Pahang,2024,5,all,1985
+Pahang,2024,5,b,559
+Pahang,2024,5,o,797
+Pahang,2024,6,a,451
+Pahang,2024,6,ab,110
+Pahang,2024,6,all,1851
+Pahang,2024,6,b,529
+Pahang,2024,6,o,761
+Pahang,2024,7,a,527
+Pahang,2024,7,ab,115
+Pahang,2024,7,all,1929
+Pahang,2024,7,b,501
+Pahang,2024,7,o,786
+Pahang,2024,8,a,552
+Pahang,2024,8,ab,115
+Pahang,2024,8,all,2177
+Pahang,2024,8,b,617
+Pahang,2024,8,o,893
+Pahang,2024,9,a,228
+Pahang,2024,9,ab,45
+Pahang,2024,9,all,906
+Pahang,2024,9,b,263
+Pahang,2024,9,o,370
+Penang,2019,1,a,1123
+Penang,2019,1,ab,305
+Penang,2019,1,all,4787
+Penang,2019,1,b,1240
+Penang,2019,1,o,2119
+Penang,2019,2,a,797
+Penang,2019,2,ab,191
+Penang,2019,2,all,3130
+Penang,2019,2,b,832
+Penang,2019,2,o,1310
+Penang,2019,3,a,1138
+Penang,2019,3,ab,282
+Penang,2019,3,all,4531
+Penang,2019,3,b,1224
+Penang,2019,3,o,1887
+Penang,2019,4,a,1024
+Penang,2019,4,ab,279
+Penang,2019,4,all,4086
+Penang,2019,4,b,1062
+Penang,2019,4,o,1721
+Penang,2019,5,a,632
+Penang,2019,5,ab,156
+Penang,2019,5,all,2501
+Penang,2019,5,b,644
+Penang,2019,5,o,1069
+Penang,2019,6,a,1031
+Penang,2019,6,ab,284
+Penang,2019,6,all,4122
+Penang,2019,6,b,1067
+Penang,2019,6,o,1740
+Penang,2019,7,a,1008
+Penang,2019,7,ab,268
+Penang,2019,7,all,3927
+Penang,2019,7,b,1022
+Penang,2019,7,o,1629
+Penang,2019,8,a,900
+Penang,2019,8,ab,219
+Penang,2019,8,all,3504
+Penang,2019,8,b,871
+Penang,2019,8,o,1514
+Penang,2019,9,a,768
+Penang,2019,9,ab,187
+Penang,2019,9,all,3009
+Penang,2019,9,b,786
+Penang,2019,9,o,1268
+Penang,2019,10,a,860
+Penang,2019,10,ab,221
+Penang,2019,10,all,3442
+Penang,2019,10,b,930
+Penang,2019,10,o,1431
+Penang,2019,11,a,725
+Penang,2019,11,ab,192
+Penang,2019,11,all,3012
+Penang,2019,11,b,778
+Penang,2019,11,o,1317
+Penang,2019,12,a,879
+Penang,2019,12,ab,219
+Penang,2019,12,all,3397
+Penang,2019,12,b,897
+Penang,2019,12,o,1402
+Penang,2020,1,a,750
+Penang,2020,1,ab,183
+Penang,2020,1,all,3140
+Penang,2020,1,b,845
+Penang,2020,1,o,1362
+Penang,2020,2,a,844
+Penang,2020,2,ab,221
+Penang,2020,2,all,3562
+Penang,2020,2,b,969
+Penang,2020,2,o,1528
+Penang,2020,3,a,673
+Penang,2020,3,ab,180
+Penang,2020,3,all,2750
+Penang,2020,3,b,752
+Penang,2020,3,o,1145
+Penang,2020,4,a,576
+Penang,2020,4,ab,149
+Penang,2020,4,all,2490
+Penang,2020,4,b,648
+Penang,2020,4,o,1117
+Penang,2020,5,a,746
+Penang,2020,5,ab,156
+Penang,2020,5,all,2956
+Penang,2020,5,b,772
+Penang,2020,5,o,1282
+Penang,2020,6,a,901
+Penang,2020,6,ab,213
+Penang,2020,6,all,3615
+Penang,2020,6,b,992
+Penang,2020,6,o,1509
+Penang,2020,7,a,722
+Penang,2020,7,ab,177
+Penang,2020,7,all,2908
+Penang,2020,7,b,787
+Penang,2020,7,o,1222
+Penang,2020,8,a,701
+Penang,2020,8,ab,152
+Penang,2020,8,all,2928
+Penang,2020,8,b,851
+Penang,2020,8,o,1224
+Penang,2020,9,a,877
+Penang,2020,9,ab,224
+Penang,2020,9,all,3493
+Penang,2020,9,b,884
+Penang,2020,9,o,1508
+Penang,2020,10,a,680
+Penang,2020,10,ab,154
+Penang,2020,10,all,2606
+Penang,2020,10,b,694
+Penang,2020,10,o,1078
+Penang,2020,11,a,738
+Penang,2020,11,ab,184
+Penang,2020,11,all,2888
+Penang,2020,11,b,808
+Penang,2020,11,o,1158
+Penang,2020,12,a,827
+Penang,2020,12,ab,209
+Penang,2020,12,all,3176
+Penang,2020,12,b,805
+Penang,2020,12,o,1335
+Penang,2021,1,a,747
+Penang,2021,1,ab,188
+Penang,2021,1,all,3134
+Penang,2021,1,b,876
+Penang,2021,1,o,1323
+Penang,2021,2,a,638
+Penang,2021,2,ab,155
+Penang,2021,2,all,2624
+Penang,2021,2,b,716
+Penang,2021,2,o,1115
+Penang,2021,3,a,807
+Penang,2021,3,ab,200
+Penang,2021,3,all,3195
+Penang,2021,3,b,845
+Penang,2021,3,o,1343
+Penang,2021,4,a,632
+Penang,2021,4,ab,167
+Penang,2021,4,all,2681
+Penang,2021,4,b,740
+Penang,2021,4,o,1142
+Penang,2021,5,a,779
+Penang,2021,5,ab,166
+Penang,2021,5,all,3168
+Penang,2021,5,b,851
+Penang,2021,5,o,1372
+Penang,2021,6,a,851
+Penang,2021,6,ab,180
+Penang,2021,6,all,3311
+Penang,2021,6,b,851
+Penang,2021,6,o,1429
+Penang,2021,7,a,612
+Penang,2021,7,ab,142
+Penang,2021,7,all,2451
+Penang,2021,7,b,682
+Penang,2021,7,o,1015
+Penang,2021,8,a,757
+Penang,2021,8,ab,194
+Penang,2021,8,all,2969
+Penang,2021,8,b,780
+Penang,2021,8,o,1238
+Penang,2021,9,a,693
+Penang,2021,9,ab,164
+Penang,2021,9,all,2882
+Penang,2021,9,b,802
+Penang,2021,9,o,1223
+Penang,2021,10,a,730
+Penang,2021,10,ab,163
+Penang,2021,10,all,2803
+Penang,2021,10,b,732
+Penang,2021,10,o,1178
+Penang,2021,11,a,753
+Penang,2021,11,ab,182
+Penang,2021,11,all,3133
+Penang,2021,11,b,889
+Penang,2021,11,o,1309
+Penang,2021,12,a,718
+Penang,2021,12,ab,176
+Penang,2021,12,all,2860
+Penang,2021,12,b,763
+Penang,2021,12,o,1203
+Penang,2022,1,a,753
+Penang,2022,1,ab,161
+Penang,2022,1,all,2781
+Penang,2022,1,b,755
+Penang,2022,1,o,1112
+Penang,2022,2,a,649
+Penang,2022,2,ab,176
+Penang,2022,2,all,2698
+Penang,2022,2,b,720
+Penang,2022,2,o,1153
+Penang,2022,3,a,846
+Penang,2022,3,ab,185
+Penang,2022,3,all,3241
+Penang,2022,3,b,863
+Penang,2022,3,o,1347
+Penang,2022,4,a,656
+Penang,2022,4,ab,160
+Penang,2022,4,all,2735
+Penang,2022,4,b,706
+Penang,2022,4,o,1213
+Penang,2022,5,a,796
+Penang,2022,5,ab,175
+Penang,2022,5,all,3270
+Penang,2022,5,b,878
+Penang,2022,5,o,1421
+Penang,2022,6,a,1037
+Penang,2022,6,ab,265
+Penang,2022,6,all,4089
+Penang,2022,6,b,1108
+Penang,2022,6,o,1679
+Penang,2022,7,a,739
+Penang,2022,7,ab,180
+Penang,2022,7,all,3089
+Penang,2022,7,b,872
+Penang,2022,7,o,1298
+Penang,2022,8,a,899
+Penang,2022,8,ab,213
+Penang,2022,8,all,3593
+Penang,2022,8,b,977
+Penang,2022,8,o,1504
+Penang,2022,9,a,880
+Penang,2022,9,ab,223
+Penang,2022,9,all,3511
+Penang,2022,9,b,965
+Penang,2022,9,o,1443
+Penang,2022,10,a,815
+Penang,2022,10,ab,174
+Penang,2022,10,all,3235
+Penang,2022,10,b,800
+Penang,2022,10,o,1446
+Penang,2022,11,a,654
+Penang,2022,11,ab,195
+Penang,2022,11,all,2715
+Penang,2022,11,b,747
+Penang,2022,11,o,1119
+Penang,2022,12,a,869
+Penang,2022,12,ab,237
+Penang,2022,12,all,3463
+Penang,2022,12,b,942
+Penang,2022,12,o,1415
+Penang,2023,1,a,913
+Penang,2023,1,ab,230
+Penang,2023,1,all,3636
+Penang,2023,1,b,1021
+Penang,2023,1,o,1472
+Penang,2023,2,a,846
+Penang,2023,2,ab,216
+Penang,2023,2,all,3557
+Penang,2023,2,b,991
+Penang,2023,2,o,1504
+Penang,2023,3,a,983
+Penang,2023,3,ab,231
+Penang,2023,3,all,3936
+Penang,2023,3,b,1074
+Penang,2023,3,o,1648
+Penang,2023,4,a,581
+Penang,2023,4,ab,161
+Penang,2023,4,all,2551
+Penang,2023,4,b,678
+Penang,2023,4,o,1131
+Penang,2023,5,a,906
+Penang,2023,5,ab,234
+Penang,2023,5,all,3613
+Penang,2023,5,b,961
+Penang,2023,5,o,1512
+Penang,2023,6,a,998
+Penang,2023,6,ab,244
+Penang,2023,6,all,3921
+Penang,2023,6,b,1076
+Penang,2023,6,o,1603
+Penang,2023,7,a,784
+Penang,2023,7,ab,215
+Penang,2023,7,all,3340
+Penang,2023,7,b,909
+Penang,2023,7,o,1432
+Penang,2023,8,a,809
+Penang,2023,8,ab,215
+Penang,2023,8,all,3412
+Penang,2023,8,b,952
+Penang,2023,8,o,1436
+Penang,2023,9,a,1025
+Penang,2023,9,ab,234
+Penang,2023,9,all,3911
+Penang,2023,9,b,1044
+Penang,2023,9,o,1608
+Penang,2023,10,a,882
+Penang,2023,10,ab,233
+Penang,2023,10,all,3671
+Penang,2023,10,b,941
+Penang,2023,10,o,1615
+Penang,2023,11,a,735
+Penang,2023,11,ab,178
+Penang,2023,11,all,3027
+Penang,2023,11,b,851
+Penang,2023,11,o,1263
+Penang,2023,12,a,773
+Penang,2023,12,ab,206
+Penang,2023,12,all,3058
+Penang,2023,12,b,821
+Penang,2023,12,o,1258
+Penang,2024,1,a,910
+Penang,2024,1,ab,241
+Penang,2024,1,all,3737
+Penang,2024,1,b,1047
+Penang,2024,1,o,1539
+Penang,2024,2,a,755
+Penang,2024,2,ab,213
+Penang,2024,2,all,3147
+Penang,2024,2,b,846
+Penang,2024,2,o,1333
+Penang,2024,3,a,969
+Penang,2024,3,ab,241
+Penang,2024,3,all,3827
+Penang,2024,3,b,1011
+Penang,2024,3,o,1606
+Penang,2024,4,a,762
+Penang,2024,4,ab,179
+Penang,2024,4,all,3116
+Penang,2024,4,b,840
+Penang,2024,4,o,1335
+Penang,2024,5,a,850
+Penang,2024,5,ab,206
+Penang,2024,5,all,3428
+Penang,2024,5,b,930
+Penang,2024,5,o,1442
+Penang,2024,6,a,936
+Penang,2024,6,ab,276
+Penang,2024,6,all,3932
+Penang,2024,6,b,1056
+Penang,2024,6,o,1664
+Penang,2024,7,a,923
+Penang,2024,7,ab,263
+Penang,2024,7,all,3707
+Penang,2024,7,b,998
+Penang,2024,7,o,1522
+Penang,2024,8,a,890
+Penang,2024,8,ab,230
+Penang,2024,8,all,3760
+Penang,2024,8,b,985
+Penang,2024,8,o,1655
+Penang,2024,9,a,464
+Penang,2024,9,ab,98
+Penang,2024,9,all,1767
+Penang,2024,9,b,458
+Penang,2024,9,o,747
+Perak,2019,1,a,1216
+Perak,2019,1,ab,318
+Perak,2019,1,all,4745
+Perak,2019,1,b,1274
+Perak,2019,1,o,1937
+Perak,2019,2,a,772
+Perak,2019,2,ab,216
+Perak,2019,2,all,3093
+Perak,2019,2,b,860
+Perak,2019,2,o,1245
+Perak,2019,3,a,920
+Perak,2019,3,ab,211
+Perak,2019,3,all,3612
+Perak,2019,3,b,980
+Perak,2019,3,o,1501
+Perak,2019,4,a,788
+Perak,2019,4,ab,184
+Perak,2019,4,all,3067
+Perak,2019,4,b,819
+Perak,2019,4,o,1276
+Perak,2019,5,a,512
+Perak,2019,5,ab,107
+Perak,2019,5,all,1889
+Perak,2019,5,b,528
+Perak,2019,5,o,742
+Perak,2019,6,a,737
+Perak,2019,6,ab,183
+Perak,2019,6,all,2962
+Perak,2019,6,b,781
+Perak,2019,6,o,1261
+Perak,2019,7,a,1172
+Perak,2019,7,ab,296
+Perak,2019,7,all,4559
+Perak,2019,7,b,1243
+Perak,2019,7,o,1848
+Perak,2019,8,a,1015
+Perak,2019,8,ab,258
+Perak,2019,8,all,4058
+Perak,2019,8,b,1099
+Perak,2019,8,o,1686
+Perak,2019,9,a,786
+Perak,2019,9,ab,177
+Perak,2019,9,all,3121
+Perak,2019,9,b,866
+Perak,2019,9,o,1292
+Perak,2019,10,a,853
+Perak,2019,10,ab,225
+Perak,2019,10,all,3538
+Perak,2019,10,b,988
+Perak,2019,10,o,1472
+Perak,2019,11,a,781
+Perak,2019,11,ab,196
+Perak,2019,11,all,3181
+Perak,2019,11,b,845
+Perak,2019,11,o,1359
+Perak,2019,12,a,801
+Perak,2019,12,ab,201
+Perak,2019,12,all,3207
+Perak,2019,12,b,878
+Perak,2019,12,o,1327
+Perak,2020,1,a,836
+Perak,2020,1,ab,206
+Perak,2020,1,all,3399
+Perak,2020,1,b,889
+Perak,2020,1,o,1468
+Perak,2020,2,a,840
+Perak,2020,2,ab,233
+Perak,2020,2,all,3474
+Perak,2020,2,b,936
+Perak,2020,2,o,1465
+Perak,2020,3,a,716
+Perak,2020,3,ab,168
+Perak,2020,3,all,2880
+Perak,2020,3,b,833
+Perak,2020,3,o,1163
+Perak,2020,4,a,577
+Perak,2020,4,ab,148
+Perak,2020,4,all,2411
+Perak,2020,4,b,667
+Perak,2020,4,o,1019
+Perak,2020,5,a,822
+Perak,2020,5,ab,224
+Perak,2020,5,all,3262
+Perak,2020,5,b,923
+Perak,2020,5,o,1293
+Perak,2020,6,a,952
+Perak,2020,6,ab,278
+Perak,2020,6,all,3889
+Perak,2020,6,b,1046
+Perak,2020,6,o,1613
+Perak,2020,7,a,711
+Perak,2020,7,ab,175
+Perak,2020,7,all,2910
+Perak,2020,7,b,754
+Perak,2020,7,o,1270
+Perak,2020,8,a,928
+Perak,2020,8,ab,236
+Perak,2020,8,all,3879
+Perak,2020,8,b,1114
+Perak,2020,8,o,1601
+Perak,2020,9,a,816
+Perak,2020,9,ab,235
+Perak,2020,9,all,3373
+Perak,2020,9,b,941
+Perak,2020,9,o,1381
+Perak,2020,10,a,1007
+Perak,2020,10,ab,255
+Perak,2020,10,all,3731
+Perak,2020,10,b,971
+Perak,2020,10,o,1498
+Perak,2020,11,a,842
+Perak,2020,11,ab,194
+Perak,2020,11,all,3255
+Perak,2020,11,b,903
+Perak,2020,11,o,1316
+Perak,2020,12,a,872
+Perak,2020,12,ab,206
+Perak,2020,12,all,3623
+Perak,2020,12,b,947
+Perak,2020,12,o,1598
+Perak,2021,1,a,865
+Perak,2021,1,ab,195
+Perak,2021,1,all,3481
+Perak,2021,1,b,945
+Perak,2021,1,o,1476
+Perak,2021,2,a,835
+Perak,2021,2,ab,221
+Perak,2021,2,all,3622
+Perak,2021,2,b,997
+Perak,2021,2,o,1569
+Perak,2021,3,a,946
+Perak,2021,3,ab,243
+Perak,2021,3,all,3934
+Perak,2021,3,b,1112
+Perak,2021,3,o,1633
+Perak,2021,4,a,757
+Perak,2021,4,ab,195
+Perak,2021,4,all,3200
+Perak,2021,4,b,869
+Perak,2021,4,o,1379
+Perak,2021,5,a,763
+Perak,2021,5,ab,188
+Perak,2021,5,all,3406
+Perak,2021,5,b,930
+Perak,2021,5,o,1525
+Perak,2021,6,a,861
+Perak,2021,6,ab,229
+Perak,2021,6,all,3826
+Perak,2021,6,b,1080
+Perak,2021,6,o,1656
+Perak,2021,7,a,841
+Perak,2021,7,ab,184
+Perak,2021,7,all,3329
+Perak,2021,7,b,883
+Perak,2021,7,o,1420
+Perak,2021,8,a,916
+Perak,2021,8,ab,212
+Perak,2021,8,all,3772
+Perak,2021,8,b,896
+Perak,2021,8,o,1748
+Perak,2021,9,a,928
+Perak,2021,9,ab,247
+Perak,2021,9,all,3749
+Perak,2021,9,b,975
+Perak,2021,9,o,1599
+Perak,2021,10,a,803
+Perak,2021,10,ab,186
+Perak,2021,10,all,3292
+Perak,2021,10,b,884
+Perak,2021,10,o,1419
+Perak,2021,11,a,847
+Perak,2021,11,ab,224
+Perak,2021,11,all,3533
+Perak,2021,11,b,971
+Perak,2021,11,o,1491
+Perak,2021,12,a,1018
+Perak,2021,12,ab,266
+Perak,2021,12,all,4007
+Perak,2021,12,b,1060
+Perak,2021,12,o,1663
+Perak,2022,1,a,948
+Perak,2022,1,ab,215
+Perak,2022,1,all,3789
+Perak,2022,1,b,1044
+Perak,2022,1,o,1582
+Perak,2022,2,a,783
+Perak,2022,2,ab,212
+Perak,2022,2,all,3309
+Perak,2022,2,b,902
+Perak,2022,2,o,1412
+Perak,2022,3,a,991
+Perak,2022,3,ab,244
+Perak,2022,3,all,4022
+Perak,2022,3,b,1077
+Perak,2022,3,o,1710
+Perak,2022,4,a,976
+Perak,2022,4,ab,219
+Perak,2022,4,all,3899
+Perak,2022,4,b,1137
+Perak,2022,4,o,1567
+Perak,2022,5,a,969
+Perak,2022,5,ab,242
+Perak,2022,5,all,3789
+Perak,2022,5,b,959
+Perak,2022,5,o,1619
+Perak,2022,6,a,1085
+Perak,2022,6,ab,287
+Perak,2022,6,all,4437
+Perak,2022,6,b,1253
+Perak,2022,6,o,1812
+Perak,2022,7,a,1060
+Perak,2022,7,ab,266
+Perak,2022,7,all,4406
+Perak,2022,7,b,1204
+Perak,2022,7,o,1876
+Perak,2022,8,a,995
+Perak,2022,8,ab,205
+Perak,2022,8,all,3711
+Perak,2022,8,b,950
+Perak,2022,8,o,1561
+Perak,2022,9,a,877
+Perak,2022,9,ab,213
+Perak,2022,9,all,3802
+Perak,2022,9,b,1073
+Perak,2022,9,o,1639
+Perak,2022,10,a,991
+Perak,2022,10,ab,289
+Perak,2022,10,all,4037
+Perak,2022,10,b,1109
+Perak,2022,10,o,1648
+Perak,2022,11,a,813
+Perak,2022,11,ab,222
+Perak,2022,11,all,3195
+Perak,2022,11,b,849
+Perak,2022,11,o,1310
+Perak,2022,12,a,1037
+Perak,2022,12,ab,269
+Perak,2022,12,all,4102
+Perak,2022,12,b,1117
+Perak,2022,12,o,1678
+Perak,2023,1,a,960
+Perak,2023,1,ab,231
+Perak,2023,1,all,4018
+Perak,2023,1,b,1100
+Perak,2023,1,o,1727
+Perak,2023,2,a,1036
+Perak,2023,2,ab,275
+Perak,2023,2,all,4123
+Perak,2023,2,b,1141
+Perak,2023,2,o,1671
+Perak,2023,3,a,1082
+Perak,2023,3,ab,245
+Perak,2023,3,all,4467
+Perak,2023,3,b,1259
+Perak,2023,3,o,1881
+Perak,2023,4,a,812
+Perak,2023,4,ab,186
+Perak,2023,4,all,3255
+Perak,2023,4,b,833
+Perak,2023,4,o,1423
+Perak,2023,5,a,966
+Perak,2023,5,ab,244
+Perak,2023,5,all,3862
+Perak,2023,5,b,1064
+Perak,2023,5,o,1588
+Perak,2023,6,a,1076
+Perak,2023,6,ab,267
+Perak,2023,6,all,4474
+Perak,2023,6,b,1314
+Perak,2023,6,o,1816
+Perak,2023,7,a,992
+Perak,2023,7,ab,219
+Perak,2023,7,all,3900
+Perak,2023,7,b,984
+Perak,2023,7,o,1704
+Perak,2023,8,a,957
+Perak,2023,8,ab,236
+Perak,2023,8,all,3905
+Perak,2023,8,b,1090
+Perak,2023,8,o,1622
+Perak,2023,9,a,912
+Perak,2023,9,ab,241
+Perak,2023,9,all,3832
+Perak,2023,9,b,1122
+Perak,2023,9,o,1557
+Perak,2023,10,a,916
+Perak,2023,10,ab,235
+Perak,2023,10,all,3742
+Perak,2023,10,b,1044
+Perak,2023,10,o,1547
+Perak,2023,11,a,929
+Perak,2023,11,ab,198
+Perak,2023,11,all,3628
+Perak,2023,11,b,985
+Perak,2023,11,o,1516
+Perak,2023,12,a,927
+Perak,2023,12,ab,212
+Perak,2023,12,all,3714
+Perak,2023,12,b,1026
+Perak,2023,12,o,1549
+Perak,2024,1,a,1034
+Perak,2024,1,ab,253
+Perak,2024,1,all,4169
+Perak,2024,1,b,1185
+Perak,2024,1,o,1697
+Perak,2024,2,a,895
+Perak,2024,2,ab,226
+Perak,2024,2,all,3739
+Perak,2024,2,b,1065
+Perak,2024,2,o,1552
+Perak,2024,3,a,979
+Perak,2024,3,ab,228
+Perak,2024,3,all,3864
+Perak,2024,3,b,931
+Perak,2024,3,o,1726
+Perak,2024,4,a,968
+Perak,2024,4,ab,248
+Perak,2024,4,all,3864
+Perak,2024,4,b,1041
+Perak,2024,4,o,1607
+Perak,2024,5,a,987
+Perak,2024,5,ab,233
+Perak,2024,5,all,3959
+Perak,2024,5,b,1103
+Perak,2024,5,o,1636
+Perak,2024,6,a,951
+Perak,2024,6,ab,215
+Perak,2024,6,all,3811
+Perak,2024,6,b,1049
+Perak,2024,6,o,1596
+Perak,2024,7,a,1025
+Perak,2024,7,ab,242
+Perak,2024,7,all,4105
+Perak,2024,7,b,1100
+Perak,2024,7,o,1738
+Perak,2024,8,a,929
+Perak,2024,8,ab,248
+Perak,2024,8,all,3873
+Perak,2024,8,b,1079
+Perak,2024,8,o,1616
+Perak,2024,9,a,433
+Perak,2024,9,ab,89
+Perak,2024,9,all,1745
+Perak,2024,9,b,441
+Perak,2024,9,o,782
+Sabah,2019,1,a,538
+Sabah,2019,1,ab,125
+Sabah,2019,1,all,2545
+Sabah,2019,1,b,569
+Sabah,2019,1,o,1313
+Sabah,2019,2,a,642
+Sabah,2019,2,ab,122
+Sabah,2019,2,all,2925
+Sabah,2019,2,b,676
+Sabah,2019,2,o,1485
+Sabah,2019,3,a,653
+Sabah,2019,3,ab,129
+Sabah,2019,3,all,2943
+Sabah,2019,3,b,700
+Sabah,2019,3,o,1461
+Sabah,2019,4,a,605
+Sabah,2019,4,ab,148
+Sabah,2019,4,all,2706
+Sabah,2019,4,b,628
+Sabah,2019,4,o,1325
+Sabah,2019,5,a,706
+Sabah,2019,5,ab,146
+Sabah,2019,5,all,3050
+Sabah,2019,5,b,774
+Sabah,2019,5,o,1424
+Sabah,2019,6,a,582
+Sabah,2019,6,ab,103
+Sabah,2019,6,all,2704
+Sabah,2019,6,b,638
+Sabah,2019,6,o,1381
+Sabah,2019,7,a,413
+Sabah,2019,7,ab,92
+Sabah,2019,7,all,2083
+Sabah,2019,7,b,482
+Sabah,2019,7,o,1096
+Sabah,2019,8,a,849
+Sabah,2019,8,ab,205
+Sabah,2019,8,all,3778
+Sabah,2019,8,b,939
+Sabah,2019,8,o,1785
+Sabah,2019,9,a,857
+Sabah,2019,9,ab,126
+Sabah,2019,9,all,3464
+Sabah,2019,9,b,846
+Sabah,2019,9,o,1635
+Sabah,2019,10,a,707
+Sabah,2019,10,ab,140
+Sabah,2019,10,all,3082
+Sabah,2019,10,b,744
+Sabah,2019,10,o,1491
+Sabah,2019,11,a,895
+Sabah,2019,11,ab,214
+Sabah,2019,11,all,3977
+Sabah,2019,11,b,975
+Sabah,2019,11,o,1893
+Sabah,2019,12,a,674
+Sabah,2019,12,ab,136
+Sabah,2019,12,all,2899
+Sabah,2019,12,b,707
+Sabah,2019,12,o,1382
+Sabah,2020,1,a,669
+Sabah,2020,1,ab,141
+Sabah,2020,1,all,2980
+Sabah,2020,1,b,717
+Sabah,2020,1,o,1453
+Sabah,2020,2,a,818
+Sabah,2020,2,ab,182
+Sabah,2020,2,all,3543
+Sabah,2020,2,b,800
+Sabah,2020,2,o,1743
+Sabah,2020,3,a,554
+Sabah,2020,3,ab,128
+Sabah,2020,3,all,2574
+Sabah,2020,3,b,640
+Sabah,2020,3,o,1252
+Sabah,2020,4,a,432
+Sabah,2020,4,ab,90
+Sabah,2020,4,all,2010
+Sabah,2020,4,b,487
+Sabah,2020,4,o,1001
+Sabah,2020,5,a,601
+Sabah,2020,5,ab,150
+Sabah,2020,5,all,2688
+Sabah,2020,5,b,645
+Sabah,2020,5,o,1292
+Sabah,2020,6,a,806
+Sabah,2020,6,ab,164
+Sabah,2020,6,all,3625
+Sabah,2020,6,b,853
+Sabah,2020,6,o,1802
+Sabah,2020,7,a,681
+Sabah,2020,7,ab,149
+Sabah,2020,7,all,3114
+Sabah,2020,7,b,759
+Sabah,2020,7,o,1525
+Sabah,2020,8,a,778
+Sabah,2020,8,ab,181
+Sabah,2020,8,all,3370
+Sabah,2020,8,b,803
+Sabah,2020,8,o,1608
+Sabah,2020,9,a,512
+Sabah,2020,9,ab,123
+Sabah,2020,9,all,2393
+Sabah,2020,9,b,620
+Sabah,2020,9,o,1138
+Sabah,2020,10,a,531
+Sabah,2020,10,ab,106
+Sabah,2020,10,all,2354
+Sabah,2020,10,b,566
+Sabah,2020,10,o,1151
+Sabah,2020,11,a,618
+Sabah,2020,11,ab,142
+Sabah,2020,11,all,2722
+Sabah,2020,11,b,631
+Sabah,2020,11,o,1331
+Sabah,2020,12,a,575
+Sabah,2020,12,ab,129
+Sabah,2020,12,all,2696
+Sabah,2020,12,b,716
+Sabah,2020,12,o,1276
+Sabah,2021,1,a,552
+Sabah,2021,1,ab,120
+Sabah,2021,1,all,2648
+Sabah,2021,1,b,613
+Sabah,2021,1,o,1363
+Sabah,2021,2,a,621
+Sabah,2021,2,ab,109
+Sabah,2021,2,all,2811
+Sabah,2021,2,b,686
+Sabah,2021,2,o,1395
+Sabah,2021,3,a,631
+Sabah,2021,3,ab,145
+Sabah,2021,3,all,2934
+Sabah,2021,3,b,699
+Sabah,2021,3,o,1459
+Sabah,2021,4,a,479
+Sabah,2021,4,ab,111
+Sabah,2021,4,all,2173
+Sabah,2021,4,b,520
+Sabah,2021,4,o,1063
+Sabah,2021,5,a,703
+Sabah,2021,5,ab,151
+Sabah,2021,5,all,3149
+Sabah,2021,5,b,749
+Sabah,2021,5,o,1546
+Sabah,2021,6,a,621
+Sabah,2021,6,ab,120
+Sabah,2021,6,all,2717
+Sabah,2021,6,b,655
+Sabah,2021,6,o,1321
+Sabah,2021,7,a,531
+Sabah,2021,7,ab,118
+Sabah,2021,7,all,2598
+Sabah,2021,7,b,663
+Sabah,2021,7,o,1286
+Sabah,2021,8,a,462
+Sabah,2021,8,ab,105
+Sabah,2021,8,all,2140
+Sabah,2021,8,b,525
+Sabah,2021,8,o,1048
+Sabah,2021,9,a,444
+Sabah,2021,9,ab,91
+Sabah,2021,9,all,2034
+Sabah,2021,9,b,501
+Sabah,2021,9,o,998
+Sabah,2021,10,a,573
+Sabah,2021,10,ab,133
+Sabah,2021,10,all,2647
+Sabah,2021,10,b,622
+Sabah,2021,10,o,1319
+Sabah,2021,11,a,630
+Sabah,2021,11,ab,147
+Sabah,2021,11,all,2726
+Sabah,2021,11,b,672
+Sabah,2021,11,o,1277
+Sabah,2021,12,a,587
+Sabah,2021,12,ab,122
+Sabah,2021,12,all,2633
+Sabah,2021,12,b,635
+Sabah,2021,12,o,1289
+Sabah,2022,1,a,559
+Sabah,2022,1,ab,98
+Sabah,2022,1,all,2515
+Sabah,2022,1,b,613
+Sabah,2022,1,o,1245
+Sabah,2022,2,a,390
+Sabah,2022,2,ab,79
+Sabah,2022,2,all,1702
+Sabah,2022,2,b,407
+Sabah,2022,2,o,826
+Sabah,2022,3,a,893
+Sabah,2022,3,ab,205
+Sabah,2022,3,all,3894
+Sabah,2022,3,b,981
+Sabah,2022,3,o,1815
+Sabah,2022,4,a,530
+Sabah,2022,4,ab,131
+Sabah,2022,4,all,2442
+Sabah,2022,4,b,584
+Sabah,2022,4,o,1197
+Sabah,2022,5,a,656
+Sabah,2022,5,ab,126
+Sabah,2022,5,all,2844
+Sabah,2022,5,b,646
+Sabah,2022,5,o,1416
+Sabah,2022,6,a,809
+Sabah,2022,6,ab,190
+Sabah,2022,6,all,3763
+Sabah,2022,6,b,954
+Sabah,2022,6,o,1810
+Sabah,2022,7,a,616
+Sabah,2022,7,ab,120
+Sabah,2022,7,all,2752
+Sabah,2022,7,b,657
+Sabah,2022,7,o,1359
+Sabah,2022,8,a,695
+Sabah,2022,8,ab,154
+Sabah,2022,8,all,2990
+Sabah,2022,8,b,776
+Sabah,2022,8,o,1365
+Sabah,2022,9,a,772
+Sabah,2022,9,ab,181
+Sabah,2022,9,all,3323
+Sabah,2022,9,b,797
+Sabah,2022,9,o,1573
+Sabah,2022,10,a,798
+Sabah,2022,10,ab,188
+Sabah,2022,10,all,3534
+Sabah,2022,10,b,906
+Sabah,2022,10,o,1642
+Sabah,2022,11,a,691
+Sabah,2022,11,ab,161
+Sabah,2022,11,all,2995
+Sabah,2022,11,b,743
+Sabah,2022,11,o,1400
+Sabah,2022,12,a,626
+Sabah,2022,12,ab,117
+Sabah,2022,12,all,2776
+Sabah,2022,12,b,695
+Sabah,2022,12,o,1338
+Sabah,2023,1,a,594
+Sabah,2023,1,ab,119
+Sabah,2023,1,all,2712
+Sabah,2023,1,b,671
+Sabah,2023,1,o,1328
+Sabah,2023,2,a,696
+Sabah,2023,2,ab,164
+Sabah,2023,2,all,2980
+Sabah,2023,2,b,713
+Sabah,2023,2,o,1406
+Sabah,2023,3,a,772
+Sabah,2023,3,ab,186
+Sabah,2023,3,all,3624
+Sabah,2023,3,b,895
+Sabah,2023,3,o,1771
+Sabah,2023,4,a,599
+Sabah,2023,4,ab,156
+Sabah,2023,4,all,2657
+Sabah,2023,4,b,622
+Sabah,2023,4,o,1280
+Sabah,2023,5,a,749
+Sabah,2023,5,ab,150
+Sabah,2023,5,all,3139
+Sabah,2023,5,b,756
+Sabah,2023,5,o,1484
+Sabah,2023,6,a,972
+Sabah,2023,6,ab,237
+Sabah,2023,6,all,4368
+Sabah,2023,6,b,1103
+Sabah,2023,6,o,2055
+Sabah,2023,7,a,761
+Sabah,2023,7,ab,127
+Sabah,2023,7,all,3159
+Sabah,2023,7,b,810
+Sabah,2023,7,o,1461
+Sabah,2023,8,a,695
+Sabah,2023,8,ab,143
+Sabah,2023,8,all,3069
+Sabah,2023,8,b,734
+Sabah,2023,8,o,1497
+Sabah,2023,9,a,867
+Sabah,2023,9,ab,218
+Sabah,2023,9,all,3930
+Sabah,2023,9,b,1014
+Sabah,2023,9,o,1831
+Sabah,2023,10,a,768
+Sabah,2023,10,ab,170
+Sabah,2023,10,all,3213
+Sabah,2023,10,b,641
+Sabah,2023,10,o,1634
+Sabah,2023,11,a,950
+Sabah,2023,11,ab,197
+Sabah,2023,11,all,4196
+Sabah,2023,11,b,1052
+Sabah,2023,11,o,1997
+Sabah,2023,12,a,626
+Sabah,2023,12,ab,129
+Sabah,2023,12,all,2779
+Sabah,2023,12,b,704
+Sabah,2023,12,o,1320
+Sabah,2024,1,a,679
+Sabah,2024,1,ab,144
+Sabah,2024,1,all,3026
+Sabah,2024,1,b,730
+Sabah,2024,1,o,1473
+Sabah,2024,2,a,758
+Sabah,2024,2,ab,160
+Sabah,2024,2,all,3274
+Sabah,2024,2,b,786
+Sabah,2024,2,o,1570
+Sabah,2024,3,a,888
+Sabah,2024,3,ab,198
+Sabah,2024,3,all,3903
+Sabah,2024,3,b,946
+Sabah,2024,3,o,1871
+Sabah,2024,4,a,642
+Sabah,2024,4,ab,153
+Sabah,2024,4,all,2842
+Sabah,2024,4,b,644
+Sabah,2024,4,o,1402
+Sabah,2024,5,a,927
+Sabah,2024,5,ab,212
+Sabah,2024,5,all,3993
+Sabah,2024,5,b,1007
+Sabah,2024,5,o,1847
+Sabah,2024,6,a,825
+Sabah,2024,6,ab,179
+Sabah,2024,6,all,3636
+Sabah,2024,6,b,903
+Sabah,2024,6,o,1729
+Sabah,2024,7,a,744
+Sabah,2024,7,ab,158
+Sabah,2024,7,all,3322
+Sabah,2024,7,b,764
+Sabah,2024,7,o,1656
+Sabah,2024,8,a,670
+Sabah,2024,8,ab,127
+Sabah,2024,8,all,3120
+Sabah,2024,8,b,786
+Sabah,2024,8,o,1537
+Sabah,2024,9,a,383
+Sabah,2024,9,ab,90
+Sabah,2024,9,all,1633
+Sabah,2024,9,b,406
+Sabah,2024,9,o,754
+Sarawak,2019,1,a,833
+Sarawak,2019,1,ab,270
+Sarawak,2019,1,all,3398
+Sarawak,2019,1,b,973
+Sarawak,2019,1,o,1322
+Sarawak,2019,2,a,649
+Sarawak,2019,2,ab,184
+Sarawak,2019,2,all,2689
+Sarawak,2019,2,b,810
+Sarawak,2019,2,o,1046
+Sarawak,2019,3,a,902
+Sarawak,2019,3,ab,272
+Sarawak,2019,3,all,3778
+Sarawak,2019,3,b,1108
+Sarawak,2019,3,o,1496
+Sarawak,2019,4,a,909
+Sarawak,2019,4,ab,273
+Sarawak,2019,4,all,3744
+Sarawak,2019,4,b,1029
+Sarawak,2019,4,o,1533
+Sarawak,2019,5,a,582
+Sarawak,2019,5,ab,164
+Sarawak,2019,5,all,2297
+Sarawak,2019,5,b,593
+Sarawak,2019,5,o,958
+Sarawak,2019,6,a,686
+Sarawak,2019,6,ab,189
+Sarawak,2019,6,all,3052
+Sarawak,2019,6,b,927
+Sarawak,2019,6,o,1250
+Sarawak,2019,7,a,836
+Sarawak,2019,7,ab,244
+Sarawak,2019,7,all,3368
+Sarawak,2019,7,b,990
+Sarawak,2019,7,o,1298
+Sarawak,2019,8,a,725
+Sarawak,2019,8,ab,229
+Sarawak,2019,8,all,3057
+Sarawak,2019,8,b,905
+Sarawak,2019,8,o,1198
+Sarawak,2019,9,a,732
+Sarawak,2019,9,ab,215
+Sarawak,2019,9,all,3236
+Sarawak,2019,9,b,918
+Sarawak,2019,9,o,1371
+Sarawak,2019,10,a,813
+Sarawak,2019,10,ab,217
+Sarawak,2019,10,all,3283
+Sarawak,2019,10,b,946
+Sarawak,2019,10,o,1307
+Sarawak,2019,11,a,691
+Sarawak,2019,11,ab,181
+Sarawak,2019,11,all,2821
+Sarawak,2019,11,b,851
+Sarawak,2019,11,o,1098
+Sarawak,2019,12,a,697
+Sarawak,2019,12,ab,212
+Sarawak,2019,12,all,2844
+Sarawak,2019,12,b,779
+Sarawak,2019,12,o,1156
+Sarawak,2020,1,a,598
+Sarawak,2020,1,ab,224
+Sarawak,2020,1,all,2808
+Sarawak,2020,1,b,791
+Sarawak,2020,1,o,1195
+Sarawak,2020,2,a,667
+Sarawak,2020,2,ab,196
+Sarawak,2020,2,all,2821
+Sarawak,2020,2,b,839
+Sarawak,2020,2,o,1119
+Sarawak,2020,3,a,697
+Sarawak,2020,3,ab,199
+Sarawak,2020,3,all,2894
+Sarawak,2020,3,b,839
+Sarawak,2020,3,o,1159
+Sarawak,2020,4,a,416
+Sarawak,2020,4,ab,115
+Sarawak,2020,4,all,1779
+Sarawak,2020,4,b,506
+Sarawak,2020,4,o,742
+Sarawak,2020,5,a,694
+Sarawak,2020,5,ab,179
+Sarawak,2020,5,all,2953
+Sarawak,2020,5,b,804
+Sarawak,2020,5,o,1276
+Sarawak,2020,6,a,732
+Sarawak,2020,6,ab,216
+Sarawak,2020,6,all,2990
+Sarawak,2020,6,b,857
+Sarawak,2020,6,o,1185
+Sarawak,2020,7,a,591
+Sarawak,2020,7,ab,166
+Sarawak,2020,7,all,2576
+Sarawak,2020,7,b,745
+Sarawak,2020,7,o,1074
+Sarawak,2020,8,a,657
+Sarawak,2020,8,ab,205
+Sarawak,2020,8,all,3092
+Sarawak,2020,8,b,849
+Sarawak,2020,8,o,1381
+Sarawak,2020,9,a,717
+Sarawak,2020,9,ab,198
+Sarawak,2020,9,all,2944
+Sarawak,2020,9,b,850
+Sarawak,2020,9,o,1179
+Sarawak,2020,10,a,674
+Sarawak,2020,10,ab,134
+Sarawak,2020,10,all,2803
+Sarawak,2020,10,b,836
+Sarawak,2020,10,o,1159
+Sarawak,2020,11,a,729
+Sarawak,2020,11,ab,216
+Sarawak,2020,11,all,3185
+Sarawak,2020,11,b,915
+Sarawak,2020,11,o,1325
+Sarawak,2020,12,a,751
+Sarawak,2020,12,ab,229
+Sarawak,2020,12,all,3115
+Sarawak,2020,12,b,853
+Sarawak,2020,12,o,1282
+Sarawak,2021,1,a,680
+Sarawak,2021,1,ab,220
+Sarawak,2021,1,all,2983
+Sarawak,2021,1,b,817
+Sarawak,2021,1,o,1266
+Sarawak,2021,2,a,644
+Sarawak,2021,2,ab,190
+Sarawak,2021,2,all,2790
+Sarawak,2021,2,b,753
+Sarawak,2021,2,o,1203
+Sarawak,2021,3,a,730
+Sarawak,2021,3,ab,212
+Sarawak,2021,3,all,3177
+Sarawak,2021,3,b,943
+Sarawak,2021,3,o,1292
+Sarawak,2021,4,a,609
+Sarawak,2021,4,ab,160
+Sarawak,2021,4,all,2509
+Sarawak,2021,4,b,726
+Sarawak,2021,4,o,1014
+Sarawak,2021,5,a,687
+Sarawak,2021,5,ab,195
+Sarawak,2021,5,all,2873
+Sarawak,2021,5,b,849
+Sarawak,2021,5,o,1142
+Sarawak,2021,6,a,660
+Sarawak,2021,6,ab,180
+Sarawak,2021,6,all,2974
+Sarawak,2021,6,b,912
+Sarawak,2021,6,o,1222
+Sarawak,2021,7,a,673
+Sarawak,2021,7,ab,171
+Sarawak,2021,7,all,2853
+Sarawak,2021,7,b,817
+Sarawak,2021,7,o,1192
+Sarawak,2021,8,a,825
+Sarawak,2021,8,ab,235
+Sarawak,2021,8,all,3387
+Sarawak,2021,8,b,963
+Sarawak,2021,8,o,1364
+Sarawak,2021,9,a,652
+Sarawak,2021,9,ab,168
+Sarawak,2021,9,all,2971
+Sarawak,2021,9,b,923
+Sarawak,2021,9,o,1228
+Sarawak,2021,10,a,695
+Sarawak,2021,10,ab,184
+Sarawak,2021,10,all,3050
+Sarawak,2021,10,b,872
+Sarawak,2021,10,o,1299
+Sarawak,2021,11,a,677
+Sarawak,2021,11,ab,187
+Sarawak,2021,11,all,3074
+Sarawak,2021,11,b,841
+Sarawak,2021,11,o,1369
+Sarawak,2021,12,a,745
+Sarawak,2021,12,ab,205
+Sarawak,2021,12,all,3142
+Sarawak,2021,12,b,870
+Sarawak,2021,12,o,1322
+Sarawak,2022,1,a,886
+Sarawak,2022,1,ab,237
+Sarawak,2022,1,all,3844
+Sarawak,2022,1,b,1128
+Sarawak,2022,1,o,1593
+Sarawak,2022,2,a,763
+Sarawak,2022,2,ab,217
+Sarawak,2022,2,all,3221
+Sarawak,2022,2,b,882
+Sarawak,2022,2,o,1359
+Sarawak,2022,3,a,802
+Sarawak,2022,3,ab,208
+Sarawak,2022,3,all,3341
+Sarawak,2022,3,b,992
+Sarawak,2022,3,o,1339
+Sarawak,2022,4,a,719
+Sarawak,2022,4,ab,184
+Sarawak,2022,4,all,2940
+Sarawak,2022,4,b,801
+Sarawak,2022,4,o,1235
+Sarawak,2022,5,a,922
+Sarawak,2022,5,ab,235
+Sarawak,2022,5,all,3588
+Sarawak,2022,5,b,972
+Sarawak,2022,5,o,1459
+Sarawak,2022,6,a,820
+Sarawak,2022,6,ab,232
+Sarawak,2022,6,all,3627
+Sarawak,2022,6,b,1059
+Sarawak,2022,6,o,1516
+Sarawak,2022,7,a,823
+Sarawak,2022,7,ab,173
+Sarawak,2022,7,all,3319
+Sarawak,2022,7,b,945
+Sarawak,2022,7,o,1378
+Sarawak,2022,8,a,746
+Sarawak,2022,8,ab,206
+Sarawak,2022,8,all,3155
+Sarawak,2022,8,b,887
+Sarawak,2022,8,o,1316
+Sarawak,2022,9,a,787
+Sarawak,2022,9,ab,215
+Sarawak,2022,9,all,3419
+Sarawak,2022,9,b,1003
+Sarawak,2022,9,o,1413
+Sarawak,2022,10,a,925
+Sarawak,2022,10,ab,267
+Sarawak,2022,10,all,3749
+Sarawak,2022,10,b,1069
+Sarawak,2022,10,o,1488
+Sarawak,2022,11,a,649
+Sarawak,2022,11,ab,156
+Sarawak,2022,11,all,2585
+Sarawak,2022,11,b,649
+Sarawak,2022,11,o,1131
+Sarawak,2022,12,a,723
+Sarawak,2022,12,ab,196
+Sarawak,2022,12,all,3341
+Sarawak,2022,12,b,1001
+Sarawak,2022,12,o,1421
+Sarawak,2023,1,a,724
+Sarawak,2023,1,ab,186
+Sarawak,2023,1,all,3140
+Sarawak,2023,1,b,917
+Sarawak,2023,1,o,1313
+Sarawak,2023,2,a,905
+Sarawak,2023,2,ab,239
+Sarawak,2023,2,all,3642
+Sarawak,2023,2,b,1025
+Sarawak,2023,2,o,1473
+Sarawak,2023,3,a,856
+Sarawak,2023,3,ab,167
+Sarawak,2023,3,all,3611
+Sarawak,2023,3,b,1021
+Sarawak,2023,3,o,1567
+Sarawak,2023,4,a,715
+Sarawak,2023,4,ab,174
+Sarawak,2023,4,all,2816
+Sarawak,2023,4,b,750
+Sarawak,2023,4,o,1177
+Sarawak,2023,5,a,970
+Sarawak,2023,5,ab,261
+Sarawak,2023,5,all,4099
+Sarawak,2023,5,b,1187
+Sarawak,2023,5,o,1681
+Sarawak,2023,6,a,890
+Sarawak,2023,6,ab,206
+Sarawak,2023,6,all,3609
+Sarawak,2023,6,b,1019
+Sarawak,2023,6,o,1494
+Sarawak,2023,7,a,850
+Sarawak,2023,7,ab,205
+Sarawak,2023,7,all,3485
+Sarawak,2023,7,b,996
+Sarawak,2023,7,o,1434
+Sarawak,2023,8,a,821
+Sarawak,2023,8,ab,226
+Sarawak,2023,8,all,3528
+Sarawak,2023,8,b,1022
+Sarawak,2023,8,o,1459
+Sarawak,2023,9,a,824
+Sarawak,2023,9,ab,215
+Sarawak,2023,9,all,3416
+Sarawak,2023,9,b,978
+Sarawak,2023,9,o,1399
+Sarawak,2023,10,a,815
+Sarawak,2023,10,ab,223
+Sarawak,2023,10,all,3397
+Sarawak,2023,10,b,1021
+Sarawak,2023,10,o,1338
+Sarawak,2023,11,a,837
+Sarawak,2023,11,ab,223
+Sarawak,2023,11,all,3493
+Sarawak,2023,11,b,1005
+Sarawak,2023,11,o,1428
+Sarawak,2023,12,a,777
+Sarawak,2023,12,ab,174
+Sarawak,2023,12,all,3357
+Sarawak,2023,12,b,981
+Sarawak,2023,12,o,1425
+Sarawak,2024,1,a,857
+Sarawak,2024,1,ab,230
+Sarawak,2024,1,all,3746
+Sarawak,2024,1,b,1072
+Sarawak,2024,1,o,1586
+Sarawak,2024,2,a,747
+Sarawak,2024,2,ab,211
+Sarawak,2024,2,all,3057
+Sarawak,2024,2,b,799
+Sarawak,2024,2,o,1300
+Sarawak,2024,3,a,996
+Sarawak,2024,3,ab,269
+Sarawak,2024,3,all,4001
+Sarawak,2024,3,b,1059
+Sarawak,2024,3,o,1677
+Sarawak,2024,4,a,825
+Sarawak,2024,4,ab,209
+Sarawak,2024,4,all,3305
+Sarawak,2024,4,b,954
+Sarawak,2024,4,o,1317
+Sarawak,2024,5,a,1001
+Sarawak,2024,5,ab,206
+Sarawak,2024,5,all,3894
+Sarawak,2024,5,b,1111
+Sarawak,2024,5,o,1576
+Sarawak,2024,6,a,796
+Sarawak,2024,6,ab,215
+Sarawak,2024,6,all,3448
+Sarawak,2024,6,b,969
+Sarawak,2024,6,o,1468
+Sarawak,2024,7,a,855
+Sarawak,2024,7,ab,200
+Sarawak,2024,7,all,3592
+Sarawak,2024,7,b,1033
+Sarawak,2024,7,o,1504
+Sarawak,2024,8,a,854
+Sarawak,2024,8,ab,189
+Sarawak,2024,8,all,3385
+Sarawak,2024,8,b,979
+Sarawak,2024,8,o,1363
+Sarawak,2024,9,a,372
+Sarawak,2024,9,ab,112
+Sarawak,2024,9,all,1666
+Sarawak,2024,9,b,496
+Sarawak,2024,9,o,686
+Selangor,2019,1,a,548
+Selangor,2019,1,ab,130
+Selangor,2019,1,all,2098
+Selangor,2019,1,b,559
+Selangor,2019,1,o,861
+Selangor,2019,2,a,543
+Selangor,2019,2,ab,153
+Selangor,2019,2,all,2204
+Selangor,2019,2,b,663
+Selangor,2019,2,o,845
+Selangor,2019,3,a,616
+Selangor,2019,3,ab,146
+Selangor,2019,3,all,2449
+Selangor,2019,3,b,646
+Selangor,2019,3,o,1041
+Selangor,2019,4,a,642
+Selangor,2019,4,ab,147
+Selangor,2019,4,all,2564
+Selangor,2019,4,b,717
+Selangor,2019,4,o,1058
+Selangor,2019,5,a,460
+Selangor,2019,5,ab,127
+Selangor,2019,5,all,1791
+Selangor,2019,5,b,449
+Selangor,2019,5,o,755
+Selangor,2019,6,a,470
+Selangor,2019,6,ab,145
+Selangor,2019,6,all,2017
+Selangor,2019,6,b,557
+Selangor,2019,6,o,845
+Selangor,2019,7,a,598
+Selangor,2019,7,ab,145
+Selangor,2019,7,all,2522
+Selangor,2019,7,b,658
+Selangor,2019,7,o,1121
+Selangor,2019,8,a,718
+Selangor,2019,8,ab,185
+Selangor,2019,8,all,2952
+Selangor,2019,8,b,807
+Selangor,2019,8,o,1242
+Selangor,2019,9,a,552
+Selangor,2019,9,ab,148
+Selangor,2019,9,all,2269
+Selangor,2019,9,b,595
+Selangor,2019,9,o,974
+Selangor,2019,10,a,540
+Selangor,2019,10,ab,146
+Selangor,2019,10,all,2379
+Selangor,2019,10,b,648
+Selangor,2019,10,o,1044
+Selangor,2019,11,a,552
+Selangor,2019,11,ab,187
+Selangor,2019,11,all,2473
+Selangor,2019,11,b,672
+Selangor,2019,11,o,1062
+Selangor,2019,12,a,603
+Selangor,2019,12,ab,151
+Selangor,2019,12,all,2347
+Selangor,2019,12,b,605
+Selangor,2019,12,o,988
+Selangor,2020,1,a,558
+Selangor,2020,1,ab,177
+Selangor,2020,1,all,2486
+Selangor,2020,1,b,680
+Selangor,2020,1,o,1071
+Selangor,2020,2,a,611
+Selangor,2020,2,ab,170
+Selangor,2020,2,all,2685
+Selangor,2020,2,b,745
+Selangor,2020,2,o,1158
+Selangor,2020,3,a,653
+Selangor,2020,3,ab,142
+Selangor,2020,3,all,2668
+Selangor,2020,3,b,673
+Selangor,2020,3,o,1200
+Selangor,2020,4,a,330
+Selangor,2020,4,ab,86
+Selangor,2020,4,all,1534
+Selangor,2020,4,b,382
+Selangor,2020,4,o,735
+Selangor,2020,5,a,717
+Selangor,2020,5,ab,182
+Selangor,2020,5,all,2701
+Selangor,2020,5,b,648
+Selangor,2020,5,o,1154
+Selangor,2020,6,a,709
+Selangor,2020,6,ab,195
+Selangor,2020,6,all,2856
+Selangor,2020,6,b,758
+Selangor,2020,6,o,1194
+Selangor,2020,7,a,546
+Selangor,2020,7,ab,136
+Selangor,2020,7,all,2245
+Selangor,2020,7,b,594
+Selangor,2020,7,o,969
+Selangor,2020,8,a,728
+Selangor,2020,8,ab,167
+Selangor,2020,8,all,2847
+Selangor,2020,8,b,808
+Selangor,2020,8,o,1144
+Selangor,2020,9,a,539
+Selangor,2020,9,ab,135
+Selangor,2020,9,all,2205
+Selangor,2020,9,b,597
+Selangor,2020,9,o,934
+Selangor,2020,10,a,722
+Selangor,2020,10,ab,181
+Selangor,2020,10,all,2998
+Selangor,2020,10,b,816
+Selangor,2020,10,o,1279
+Selangor,2020,11,a,579
+Selangor,2020,11,ab,139
+Selangor,2020,11,all,2219
+Selangor,2020,11,b,636
+Selangor,2020,11,o,865
+Selangor,2020,12,a,425
+Selangor,2020,12,ab,114
+Selangor,2020,12,all,1790
+Selangor,2020,12,b,457
+Selangor,2020,12,o,794
+Selangor,2021,1,a,507
+Selangor,2021,1,ab,113
+Selangor,2021,1,all,2038
+Selangor,2021,1,b,518
+Selangor,2021,1,o,899
+Selangor,2021,2,a,601
+Selangor,2021,2,ab,153
+Selangor,2021,2,all,2532
+Selangor,2021,2,b,679
+Selangor,2021,2,o,1099
+Selangor,2021,3,a,657
+Selangor,2021,3,ab,162
+Selangor,2021,3,all,2580
+Selangor,2021,3,b,679
+Selangor,2021,3,o,1082
+Selangor,2021,4,a,489
+Selangor,2021,4,ab,128
+Selangor,2021,4,all,2115
+Selangor,2021,4,b,609
+Selangor,2021,4,o,889
+Selangor,2021,5,a,643
+Selangor,2021,5,ab,145
+Selangor,2021,5,all,2733
+Selangor,2021,5,b,725
+Selangor,2021,5,o,1219
+Selangor,2021,6,a,569
+Selangor,2021,6,ab,137
+Selangor,2021,6,all,2440
+Selangor,2021,6,b,652
+Selangor,2021,6,o,1082
+Selangor,2021,7,a,188
+Selangor,2021,7,ab,39
+Selangor,2021,7,all,873
+Selangor,2021,7,b,246
+Selangor,2021,7,o,400
+Selangor,2021,8,a,562
+Selangor,2021,8,ab,138
+Selangor,2021,8,all,2406
+Selangor,2021,8,b,616
+Selangor,2021,8,o,1090
+Selangor,2021,9,a,568
+Selangor,2021,9,ab,131
+Selangor,2021,9,all,2221
+Selangor,2021,9,b,587
+Selangor,2021,9,o,935
+Selangor,2021,10,a,490
+Selangor,2021,10,ab,117
+Selangor,2021,10,all,2041
+Selangor,2021,10,b,564
+Selangor,2021,10,o,870
+Selangor,2021,11,a,488
+Selangor,2021,11,ab,111
+Selangor,2021,11,all,2090
+Selangor,2021,11,b,589
+Selangor,2021,11,o,902
+Selangor,2021,12,a,503
+Selangor,2021,12,ab,128
+Selangor,2021,12,all,2025
+Selangor,2021,12,b,520
+Selangor,2021,12,o,873
+Selangor,2022,1,a,604
+Selangor,2022,1,ab,146
+Selangor,2022,1,all,2392
+Selangor,2022,1,b,646
+Selangor,2022,1,o,996
+Selangor,2022,2,a,497
+Selangor,2022,2,ab,121
+Selangor,2022,2,all,2058
+Selangor,2022,2,b,552
+Selangor,2022,2,o,888
+Selangor,2022,3,a,521
+Selangor,2022,3,ab,120
+Selangor,2022,3,all,2126
+Selangor,2022,3,b,522
+Selangor,2022,3,o,963
+Selangor,2022,4,a,578
+Selangor,2022,4,ab,144
+Selangor,2022,4,all,2325
+Selangor,2022,4,b,618
+Selangor,2022,4,o,985
+Selangor,2022,5,a,602
+Selangor,2022,5,ab,135
+Selangor,2022,5,all,2462
+Selangor,2022,5,b,682
+Selangor,2022,5,o,1043
+Selangor,2022,6,a,687
+Selangor,2022,6,ab,167
+Selangor,2022,6,all,2841
+Selangor,2022,6,b,767
+Selangor,2022,6,o,1220
+Selangor,2022,7,a,720
+Selangor,2022,7,ab,197
+Selangor,2022,7,all,2918
+Selangor,2022,7,b,788
+Selangor,2022,7,o,1213
+Selangor,2022,8,a,655
+Selangor,2022,8,ab,73
+Selangor,2022,8,all,2453
+Selangor,2022,8,b,619
+Selangor,2022,8,o,1105
+Selangor,2022,9,a,550
+Selangor,2022,9,ab,166
+Selangor,2022,9,all,2321
+Selangor,2022,9,b,640
+Selangor,2022,9,o,965
+Selangor,2022,10,a,679
+Selangor,2022,10,ab,135
+Selangor,2022,10,all,2701
+Selangor,2022,10,b,732
+Selangor,2022,10,o,1155
+Selangor,2022,11,a,540
+Selangor,2022,11,ab,113
+Selangor,2022,11,all,2193
+Selangor,2022,11,b,566
+Selangor,2022,11,o,973
+Selangor,2022,12,a,580
+Selangor,2022,12,ab,148
+Selangor,2022,12,all,2523
+Selangor,2022,12,b,711
+Selangor,2022,12,o,1084
+Selangor,2023,1,a,616
+Selangor,2023,1,ab,125
+Selangor,2023,1,all,2408
+Selangor,2023,1,b,669
+Selangor,2023,1,o,998
+Selangor,2023,2,a,580
+Selangor,2023,2,ab,133
+Selangor,2023,2,all,2383
+Selangor,2023,2,b,626
+Selangor,2023,2,o,1044
+Selangor,2023,3,a,549
+Selangor,2023,3,ab,120
+Selangor,2023,3,all,2358
+Selangor,2023,3,b,674
+Selangor,2023,3,o,1015
+Selangor,2023,4,a,517
+Selangor,2023,4,ab,101
+Selangor,2023,4,all,2088
+Selangor,2023,4,b,537
+Selangor,2023,4,o,933
+Selangor,2023,5,a,715
+Selangor,2023,5,ab,136
+Selangor,2023,5,all,2879
+Selangor,2023,5,b,788
+Selangor,2023,5,o,1240
+Selangor,2023,6,a,659
+Selangor,2023,6,ab,128
+Selangor,2023,6,all,2604
+Selangor,2023,6,b,734
+Selangor,2023,6,o,1083
+Selangor,2023,7,a,548
+Selangor,2023,7,ab,129
+Selangor,2023,7,all,2217
+Selangor,2023,7,b,618
+Selangor,2023,7,o,921
+Selangor,2023,8,a,736
+Selangor,2023,8,ab,161
+Selangor,2023,8,all,2886
+Selangor,2023,8,b,740
+Selangor,2023,8,o,1249
+Selangor,2023,9,a,625
+Selangor,2023,9,ab,112
+Selangor,2023,9,all,2477
+Selangor,2023,9,b,692
+Selangor,2023,9,o,1048
+Selangor,2023,10,a,609
+Selangor,2023,10,ab,160
+Selangor,2023,10,all,2564
+Selangor,2023,10,b,747
+Selangor,2023,10,o,1048
+Selangor,2023,11,a,680
+Selangor,2023,11,ab,106
+Selangor,2023,11,all,2644
+Selangor,2023,11,b,736
+Selangor,2023,11,o,1121
+Selangor,2023,12,a,638
+Selangor,2023,12,ab,146
+Selangor,2023,12,all,2624
+Selangor,2023,12,b,729
+Selangor,2023,12,o,1111
+Selangor,2024,1,a,555
+Selangor,2024,1,ab,136
+Selangor,2024,1,all,2247
+Selangor,2024,1,b,624
+Selangor,2024,1,o,932
+Selangor,2024,2,a,590
+Selangor,2024,2,ab,170
+Selangor,2024,2,all,2634
+Selangor,2024,2,b,753
+Selangor,2024,2,o,1121
+Selangor,2024,3,a,748
+Selangor,2024,3,ab,186
+Selangor,2024,3,all,2951
+Selangor,2024,3,b,755
+Selangor,2024,3,o,1262
+Selangor,2024,4,a,682
+Selangor,2024,4,ab,170
+Selangor,2024,4,all,2733
+Selangor,2024,4,b,749
+Selangor,2024,4,o,1132
+Selangor,2024,5,a,666
+Selangor,2024,5,ab,64
+Selangor,2024,5,all,2640
+Selangor,2024,5,b,721
+Selangor,2024,5,o,1189
+Selangor,2024,6,a,634
+Selangor,2024,6,ab,182
+Selangor,2024,6,all,2750
+Selangor,2024,6,b,761
+Selangor,2024,6,o,1173
+Selangor,2024,7,a,629
+Selangor,2024,7,ab,135
+Selangor,2024,7,all,2713
+Selangor,2024,7,b,768
+Selangor,2024,7,o,1181
+Selangor,2024,8,a,658
+Selangor,2024,8,ab,144
+Selangor,2024,8,all,2688
+Selangor,2024,8,b,756
+Selangor,2024,8,o,1130
+Selangor,2024,9,a,320
+Selangor,2024,9,ab,82
+Selangor,2024,9,all,1338
+Selangor,2024,9,b,359
+Selangor,2024,9,o,577
+Terengganu,2019,1,a,345
+Terengganu,2019,1,ab,97
+Terengganu,2019,1,all,1418
+Terengganu,2019,1,b,436
+Terengganu,2019,1,o,540
+Terengganu,2019,2,a,367
+Terengganu,2019,2,ab,120
+Terengganu,2019,2,all,1624
+Terengganu,2019,2,b,483
+Terengganu,2019,2,o,654
+Terengganu,2019,3,a,279
+Terengganu,2019,3,ab,70
+Terengganu,2019,3,all,1141
+Terengganu,2019,3,b,332
+Terengganu,2019,3,o,460
+Terengganu,2019,4,a,475
+Terengganu,2019,4,ab,139
+Terengganu,2019,4,all,1986
+Terengganu,2019,4,b,551
+Terengganu,2019,4,o,821
+Terengganu,2019,5,a,292
+Terengganu,2019,5,ab,100
+Terengganu,2019,5,all,1321
+Terengganu,2019,5,b,398
+Terengganu,2019,5,o,531
+Terengganu,2019,6,a,238
+Terengganu,2019,6,ab,55
+Terengganu,2019,6,all,940
+Terengganu,2019,6,b,261
+Terengganu,2019,6,o,386
+Terengganu,2019,7,a,387
+Terengganu,2019,7,ab,108
+Terengganu,2019,7,all,1575
+Terengganu,2019,7,b,435
+Terengganu,2019,7,o,645
+Terengganu,2019,8,a,271
+Terengganu,2019,8,ab,85
+Terengganu,2019,8,all,1051
+Terengganu,2019,8,b,280
+Terengganu,2019,8,o,415
+Terengganu,2019,9,a,307
+Terengganu,2019,9,ab,90
+Terengganu,2019,9,all,1237
+Terengganu,2019,9,b,350
+Terengganu,2019,9,o,490
+Terengganu,2019,10,a,292
+Terengganu,2019,10,ab,79
+Terengganu,2019,10,all,1167
+Terengganu,2019,10,b,328
+Terengganu,2019,10,o,468
+Terengganu,2019,11,a,280
+Terengganu,2019,11,ab,94
+Terengganu,2019,11,all,1177
+Terengganu,2019,11,b,313
+Terengganu,2019,11,o,490
+Terengganu,2019,12,a,398
+Terengganu,2019,12,ab,127
+Terengganu,2019,12,all,1667
+Terengganu,2019,12,b,464
+Terengganu,2019,12,o,678
+Terengganu,2020,1,a,292
+Terengganu,2020,1,ab,85
+Terengganu,2020,1,all,1192
+Terengganu,2020,1,b,338
+Terengganu,2020,1,o,477
+Terengganu,2020,2,a,342
+Terengganu,2020,2,ab,118
+Terengganu,2020,2,all,1352
+Terengganu,2020,2,b,351
+Terengganu,2020,2,o,541
+Terengganu,2020,3,a,249
+Terengganu,2020,3,ab,66
+Terengganu,2020,3,all,1089
+Terengganu,2020,3,b,331
+Terengganu,2020,3,o,443
+Terengganu,2020,4,a,290
+Terengganu,2020,4,ab,80
+Terengganu,2020,4,all,1246
+Terengganu,2020,4,b,339
+Terengganu,2020,4,o,537
+Terengganu,2020,5,a,368
+Terengganu,2020,5,ab,114
+Terengganu,2020,5,all,1464
+Terengganu,2020,5,b,425
+Terengganu,2020,5,o,557
+Terengganu,2020,6,a,297
+Terengganu,2020,6,ab,77
+Terengganu,2020,6,all,1222
+Terengganu,2020,6,b,355
+Terengganu,2020,6,o,493
+Terengganu,2020,7,a,302
+Terengganu,2020,7,ab,73
+Terengganu,2020,7,all,1159
+Terengganu,2020,7,b,311
+Terengganu,2020,7,o,473
+Terengganu,2020,8,a,347
+Terengganu,2020,8,ab,95
+Terengganu,2020,8,all,1397
+Terengganu,2020,8,b,388
+Terengganu,2020,8,o,567
+Terengganu,2020,9,a,302
+Terengganu,2020,9,ab,83
+Terengganu,2020,9,all,1268
+Terengganu,2020,9,b,339
+Terengganu,2020,9,o,544
+Terengganu,2020,10,a,313
+Terengganu,2020,10,ab,102
+Terengganu,2020,10,all,1297
+Terengganu,2020,10,b,388
+Terengganu,2020,10,o,494
+Terengganu,2020,11,a,376
+Terengganu,2020,11,ab,111
+Terengganu,2020,11,all,1489
+Terengganu,2020,11,b,420
+Terengganu,2020,11,o,582
+Terengganu,2020,12,a,291
+Terengganu,2020,12,ab,79
+Terengganu,2020,12,all,1186
+Terengganu,2020,12,b,340
+Terengganu,2020,12,o,476
+Terengganu,2021,1,a,247
+Terengganu,2021,1,ab,76
+Terengganu,2021,1,all,1041
+Terengganu,2021,1,b,291
+Terengganu,2021,1,o,427
+Terengganu,2021,2,a,304
+Terengganu,2021,2,ab,73
+Terengganu,2021,2,all,1203
+Terengganu,2021,2,b,329
+Terengganu,2021,2,o,497
+Terengganu,2021,3,a,367
+Terengganu,2021,3,ab,100
+Terengganu,2021,3,all,1516
+Terengganu,2021,3,b,423
+Terengganu,2021,3,o,626
+Terengganu,2021,4,a,356
+Terengganu,2021,4,ab,103
+Terengganu,2021,4,all,1434
+Terengganu,2021,4,b,409
+Terengganu,2021,4,o,566
+Terengganu,2021,5,a,276
+Terengganu,2021,5,ab,72
+Terengganu,2021,5,all,1017
+Terengganu,2021,5,b,275
+Terengganu,2021,5,o,394
+Terengganu,2021,6,a,393
+Terengganu,2021,6,ab,136
+Terengganu,2021,6,all,1679
+Terengganu,2021,6,b,479
+Terengganu,2021,6,o,671
+Terengganu,2021,7,a,294
+Terengganu,2021,7,ab,79
+Terengganu,2021,7,all,1198
+Terengganu,2021,7,b,339
+Terengganu,2021,7,o,486
+Terengganu,2021,8,a,335
+Terengganu,2021,8,ab,88
+Terengganu,2021,8,all,1322
+Terengganu,2021,8,b,352
+Terengganu,2021,8,o,547
+Terengganu,2021,9,a,297
+Terengganu,2021,9,ab,90
+Terengganu,2021,9,all,1231
+Terengganu,2021,9,b,366
+Terengganu,2021,9,o,478
+Terengganu,2021,10,a,363
+Terengganu,2021,10,ab,115
+Terengganu,2021,10,all,1441
+Terengganu,2021,10,b,402
+Terengganu,2021,10,o,561
+Terengganu,2021,11,a,272
+Terengganu,2021,11,ab,95
+Terengganu,2021,11,all,1284
+Terengganu,2021,11,b,304
+Terengganu,2021,11,o,613
+Terengganu,2021,12,a,451
+Terengganu,2021,12,ab,129
+Terengganu,2021,12,all,1814
+Terengganu,2021,12,b,543
+Terengganu,2021,12,o,691
+Terengganu,2022,1,a,364
+Terengganu,2022,1,ab,106
+Terengganu,2022,1,all,1427
+Terengganu,2022,1,b,414
+Terengganu,2022,1,o,543
+Terengganu,2022,2,a,264
+Terengganu,2022,2,ab,67
+Terengganu,2022,2,all,1068
+Terengganu,2022,2,b,281
+Terengganu,2022,2,o,456
+Terengganu,2022,3,a,428
+Terengganu,2022,3,ab,130
+Terengganu,2022,3,all,1743
+Terengganu,2022,3,b,531
+Terengganu,2022,3,o,654
+Terengganu,2022,4,a,375
+Terengganu,2022,4,ab,103
+Terengganu,2022,4,all,1549
+Terengganu,2022,4,b,419
+Terengganu,2022,4,o,652
+Terengganu,2022,5,a,332
+Terengganu,2022,5,ab,85
+Terengganu,2022,5,all,1261
+Terengganu,2022,5,b,317
+Terengganu,2022,5,o,527
+Terengganu,2022,6,a,411
+Terengganu,2022,6,ab,111
+Terengganu,2022,6,all,1670
+Terengganu,2022,6,b,475
+Terengganu,2022,6,o,673
+Terengganu,2022,7,a,271
+Terengganu,2022,7,ab,84
+Terengganu,2022,7,all,1152
+Terengganu,2022,7,b,321
+Terengganu,2022,7,o,476
+Terengganu,2022,8,a,468
+Terengganu,2022,8,ab,134
+Terengganu,2022,8,all,2020
+Terengganu,2022,8,b,554
+Terengganu,2022,8,o,864
+Terengganu,2022,9,a,350
+Terengganu,2022,9,ab,92
+Terengganu,2022,9,all,1450
+Terengganu,2022,9,b,409
+Terengganu,2022,9,o,599
+Terengganu,2022,10,a,443
+Terengganu,2022,10,ab,104
+Terengganu,2022,10,all,1737
+Terengganu,2022,10,b,498
+Terengganu,2022,10,o,692
+Terengganu,2022,11,a,376
+Terengganu,2022,11,ab,121
+Terengganu,2022,11,all,1549
+Terengganu,2022,11,b,418
+Terengganu,2022,11,o,634
+Terengganu,2022,12,a,384
+Terengganu,2022,12,ab,114
+Terengganu,2022,12,all,1600
+Terengganu,2022,12,b,444
+Terengganu,2022,12,o,658
+Terengganu,2023,1,a,364
+Terengganu,2023,1,ab,118
+Terengganu,2023,1,all,1492
+Terengganu,2023,1,b,422
+Terengganu,2023,1,o,588
+Terengganu,2023,2,a,328
+Terengganu,2023,2,ab,94
+Terengganu,2023,2,all,1384
+Terengganu,2023,2,b,374
+Terengganu,2023,2,o,587
+Terengganu,2023,3,a,445
+Terengganu,2023,3,ab,132
+Terengganu,2023,3,all,1889
+Terengganu,2023,3,b,528
+Terengganu,2023,3,o,784
+Terengganu,2023,4,a,359
+Terengganu,2023,4,ab,119
+Terengganu,2023,4,all,1490
+Terengganu,2023,4,b,453
+Terengganu,2023,4,o,559
+Terengganu,2023,5,a,356
+Terengganu,2023,5,ab,98
+Terengganu,2023,5,all,1442
+Terengganu,2023,5,b,392
+Terengganu,2023,5,o,596
+Terengganu,2023,6,a,357
+Terengganu,2023,6,ab,112
+Terengganu,2023,6,all,1604
+Terengganu,2023,6,b,450
+Terengganu,2023,6,o,685
+Terengganu,2023,7,a,345
+Terengganu,2023,7,ab,111
+Terengganu,2023,7,all,1461
+Terengganu,2023,7,b,402
+Terengganu,2023,7,o,603
+Terengganu,2023,8,a,430
+Terengganu,2023,8,ab,138
+Terengganu,2023,8,all,1778
+Terengganu,2023,8,b,497
+Terengganu,2023,8,o,713
+Terengganu,2023,9,a,420
+Terengganu,2023,9,ab,113
+Terengganu,2023,9,all,1529
+Terengganu,2023,9,b,408
+Terengganu,2023,9,o,588
+Terengganu,2023,10,a,420
+Terengganu,2023,10,ab,123
+Terengganu,2023,10,all,1819
+Terengganu,2023,10,b,530
+Terengganu,2023,10,o,745
+Terengganu,2023,11,a,419
+Terengganu,2023,11,ab,110
+Terengganu,2023,11,all,1665
+Terengganu,2023,11,b,398
+Terengganu,2023,11,o,738
+Terengganu,2023,12,a,443
+Terengganu,2023,12,ab,130
+Terengganu,2023,12,all,1807
+Terengganu,2023,12,b,527
+Terengganu,2023,12,o,706
+Terengganu,2024,1,a,454
+Terengganu,2024,1,ab,150
+Terengganu,2024,1,all,1948
+Terengganu,2024,1,b,575
+Terengganu,2024,1,o,769
+Terengganu,2024,2,a,302
+Terengganu,2024,2,ab,96
+Terengganu,2024,2,all,1348
+Terengganu,2024,2,b,368
+Terengganu,2024,2,o,582
+Terengganu,2024,3,a,492
+Terengganu,2024,3,ab,130
+Terengganu,2024,3,all,1959
+Terengganu,2024,3,b,567
+Terengganu,2024,3,o,770
+Terengganu,2024,4,a,425
+Terengganu,2024,4,ab,112
+Terengganu,2024,4,all,1574
+Terengganu,2024,4,b,408
+Terengganu,2024,4,o,629
+Terengganu,2024,5,a,435
+Terengganu,2024,5,ab,130
+Terengganu,2024,5,all,1781
+Terengganu,2024,5,b,507
+Terengganu,2024,5,o,709
+Terengganu,2024,6,a,415
+Terengganu,2024,6,ab,129
+Terengganu,2024,6,all,1775
+Terengganu,2024,6,b,491
+Terengganu,2024,6,o,740
+Terengganu,2024,7,a,349
+Terengganu,2024,7,ab,115
+Terengganu,2024,7,all,1435
+Terengganu,2024,7,b,373
+Terengganu,2024,7,o,598
+Terengganu,2024,8,a,473
+Terengganu,2024,8,ab,126
+Terengganu,2024,8,all,1883
+Terengganu,2024,8,b,527
+Terengganu,2024,8,o,757
+Terengganu,2024,9,a,226
+Terengganu,2024,9,ab,54
+Terengganu,2024,9,all,841
+Terengganu,2024,9,b,243
+Terengganu,2024,9,o,318
