@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Assignment 2</title>
+
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.5.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"></script>
+
+    <!-- CSS file -->
+    <link rel="stylesheet" href="style.css">
+
+</html>
+
+<body>
+    <h1>Crucial for Saving Lifes - Blood</h1>
+    <div class="text-box">
+        <p>
+            Blood is crucial for saving lifes. 
+            <br> <br>
+            It is needed for emergencies and for people who have cancer, blood disorders, sickle cell anemia and other illnesses. 
+            Blood is also needed for regular transfusions for people who have lost blood during surgery or from serious injuries. 
+            Some people need regular blood transfusions to live.
+        </p>
+        <p>
+            Let's dive into the data of blood donation in Malaysia by States.
+            <br> <br>
+            The data for the visualisations below are Blood Donations Data collected from Malaysia's Official Open Data Portal filtered from year 2019 to 2024.
+        </p>
+    </div>
+    
+    <div id="choropleth_map"></div>
+
+    <script>
+        var spec2 = "choroplethmap_slider.vg.json";
+        vegaEmbed('#choropleth_map', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
+
+    <div id="bubble_plot"></div>
+
+    <script>
+        var spec2 = "bubble_plot.vg.json";
+        vegaEmbed('#bubble_plot', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
+
+    <div id="bump_chart"></div>
+
+    <script>
+        var spec2 = "bump_chart.vg.json";
+        vegaEmbed('#bump_chart', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
+
+    <h2>Contribution Percentage Comparison</h2>
+    <div id="radial">
+        <div id="radial_all"></div>
+
+        <div id="radial_others"></div>
+    </div>
+    
+    <script>
+        var spec2 = "radial_all.vg.json";
+        vegaEmbed('#radial_all', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        var spec2 = "radial_others.vg.json";
+        vegaEmbed('#radial_others', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
+
+    <div class="text-box">
+        <p>
+            The radial chart above shows the aggregated value of blood donations for the year.
+            <br> <br>
+            States with the highest contribution percentage for all the blood types also have the highest 
+            contribution percentage for the other blood types, consistanly throughout the years.
+        </p>
+        <p>
+            However, when we look at the rank of the states based on the monthly blood donations,
+            some states have a drastic change in their rank for each blood type.
+            <br> <br>
+            Other than that, for certain months, some states have a higher / lower number of donations for a 
+            specific blood type.
+            <br> <br>
+            This shows that the number of blood donations each month in each state is not consistent.
+        </p>
+    </div>
+
+    <div id="parallel_coor"></div>
+
+    <script>
+        var spec2 = "parallel_coor.vg.json";
+        vegaEmbed('#parallel_coor', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
+
+    <footer>
+        <div>
+            <p>FIT3179 - Assignment 2</p>
+            <p>Author: Hia Hung Xian</p>
+            <p>Date: 13/10/2024</p>
+            <p>Reference for Topojson: <a href="https://github.com/jnewbery/CartogramMalaysia/blob/master/public/data/malaysia-states.topojson">Malaysia States Topojson</a> (Owner: jnewbery)</p>
+            <p>Dataset: <a href="https://data.gov.my/data-catalogue/blood_donations_state">Blood Donation Dataset</a> (DOSM)</p>
+        </div>
+    </footer>
+</body>
