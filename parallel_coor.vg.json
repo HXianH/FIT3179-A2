@@ -1,0 +1,308 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Parallel coordinate plot with multiple y-axes for blood types based on rank by donations.",
+    "width": 1000,
+    "height": 600,
+    "title": {
+        "text": "Difference in Rankings of Blood Types in the Month",
+        "fontSize": 30,
+        "font": "Serif"
+    },
+    "data": {
+        "url": "https://raw.githubusercontent.com/HXianH/FIT3179-A2/refs/heads/main/normalized_blood_donors_by_year_month_and_blood_type.csv",
+        "format": {
+            "type": "csv"
+        }
+    },
+    "params": [
+        {
+            "name": "year_selected",
+            "value": 2019,
+            "bind": {
+                "input": "range",
+                "min": 2019,
+                "max": 2024,
+                "step": 1,
+                "name": "Year: "
+            }
+        },
+        {
+            "name": "month_selected",
+            "value": "1",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "labels": [
+                    "Jan",
+                    "Feb",
+                    "Mar",
+                    "Apr",
+                    "May",
+                    "Jun",
+                    "Jul",
+                    "Aug",
+                    "Sep",
+                    "Oct",
+                    "Nov",
+                    "Dec"
+                ],
+                "name": "Month: "
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "datum.donations != null"
+        },
+        {
+            "filter": "datum.year == year_selected"
+        },
+        {
+            "filter": "datum.month == month_selected"
+        },
+        {
+            "window": [
+                {
+                    "op": "rank",
+                    "as": "rank"
+                }
+            ],
+            "sort": [
+                {
+                    "field": "donations",
+                    "order": "descending"
+                }
+            ],
+            "groupby": [
+                "blood_type"
+            ]
+        }
+    ],
+    "layer": [
+        {
+            "mark": "rule",
+            "encoding": {
+                "x": {
+                    "field": "blood_type",
+                    "type": "nominal",
+                    "title": "Blood Type",
+                    "sort": [
+                        "all",
+                        "a",
+                        "b",
+                        "ab",
+                        "o"
+                    ],
+                    "axis": null                
+                },
+                "y": {
+                    "value": 0
+                },
+                "y2": {
+                    "value": 600
+                },
+                "color": {
+                    "value": "#e0e0e0"
+                }
+            }
+        },
+        {
+            "mark": 
+                {
+                    "type": "text",
+                    "fontSize": 12,
+                    "fontWeight": "normal",
+                    "font": "Sans-Serif"
+                },
+            "encoding": {
+                "x": {
+                    "field": "blood_type",
+                    "type": "nominal",
+                    "title": null,
+                    "sort": [
+                        "all",
+                        "a",
+                        "b",
+                        "ab",
+                        "o"
+                    ]
+                },
+                "y": {
+                    "value": 610
+                },
+                "text": {
+                    "field": "blood_type"
+                }
+            }
+        },
+        {
+            "selection": {
+                "hover": {
+                    "type": "single",
+                    "on": "mouseover",
+                    "empty": "none",
+                    "fields": ["state"]
+                },
+                "state_selection": {
+                    "type": "multi",
+                    "fields": ["state"],
+                    "bind": "legend",
+                    "empty": "none"
+                }
+            },
+            "mark": "line",
+            "encoding": {
+                "x": {
+                    "field": "blood_type",
+                    "type": "nominal",
+                    "title": null,
+                    "sort": [
+                        "all",
+                        "a",
+                        "b",
+                        "ab",
+                        "o"
+                    ]
+                },
+                "y": {
+                    "field": "rank",
+                    "type": "quantitative",
+                    "title": "Rank",
+                    "scale": {
+                        "reverse": true, "zero": false
+                    }
+                },
+                "color": {
+                    "field": "state",
+                    "type": "nominal",
+                    "scale": {
+                        "range": ["#1f77b4", "#ff7f00", "#abdda4", "#984ea3", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#FFD700", "#77CDFF", "#c5b0d5", "#2ca02c", "#fdae61"]
+                    },
+                    "legend": {
+                        "title": "State",
+                        "orient": "right"
+                    }
+                },
+                "opacity": {
+                    "condition":[
+                        {"test": "datum.state == 'Kuala Lumpur' || datum.state == 'Selangor' || datum.state == 'Johor'", "value": 1},
+                        {"selection": "hover", "value": 1},
+                        {"selection": "state_selection", "value": 1}
+                    ],
+                    "value": 0.2
+                },
+                "strokeWidth": {
+                    "condition": [
+                        {"selection": "hover", "value": 4},
+                        {"selection": "state_selection", "value": 4}
+                    ],
+                    "value": 2
+                },
+                "tooltip": [
+                    {
+                        "field": "state",
+                        "type": "nominal",
+                        "title": "State"
+                    },
+                    {
+                        "field": "donations",
+                        "type": "quantitative",
+                        "title": "Donations"
+                    },
+                    {
+                        "field": "rank",
+                        "type": "quantitative",
+                        "title": "Rank"
+                    }
+                ]
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "fontSize": 15,
+                "fontWeight": 100,
+                "font": "Sans-Serif"
+            },
+            "encoding": {
+              "x": {"value": 160},  
+              "y": {"value": -10},  
+              "text": {"value": "States with high rank for blood type all has significant drop in rank for blood type A" }
+            },
+            "transform": [
+            {
+              "filter": {
+                "and": [
+                  {"field": "year", "equal": 2019},  
+                  {"field": "month", "equal": "1"} 
+                ]
+              }
+            }
+          ]
+          },
+          {
+            "mark": {
+                "type": "text",
+                "fontSize": 15,
+                "fontWeight": "normal",
+                "font": "Sans-Serif"
+            },
+            "encoding": {
+              "x": {"value": 210},  
+              "y": {"value": 560}, 
+              "text": {"value": "Significant drop"}
+            },
+            "transform": [
+            {
+              "filter": {
+                "and": [
+                  {"field": "year", "equal": 2019},  
+                  {"field": "month", "equal": "1"} 
+                ]
+              }
+            }
+          ]
+          },
+          {
+            "mark": {
+                "type": "text",
+                "fontSize": 15,
+                "fontWeight": "normal",
+                "font": "Sans-Serif"
+            },
+            "encoding": {
+              "x": {"value": 1000},  
+              "y": {"value": 230}, 
+              "text": {"value": "Significant increase in rank for blood type O"}
+            },
+            "transform": [
+            {
+              "filter": {
+                "and": [
+                  {"field": "year", "equal": 2019},  
+                  {"field": "month", "equal": "1"} 
+                ]
+              }
+            }
+          ]
+          }
+    ],
+    "config": {
+        "axis": {
+            "grid": false
+        }
+    }
+}

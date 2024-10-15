@@ -1,0 +1,124 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 1000,
+    "height": 600,
+    "title": {
+        "text": "Monthly Ranking of Blood Donations by Blood Type for the Year",
+        "fontSize": 30,
+        "font": "Serif"
+    },
+    "data": {
+        "url": "https://raw.githubusercontent.com/HXianH/FIT3179-A2/refs/heads/main/normalized_blood_donors_by_year_month_and_blood_type.csv",
+        "format": {"type": "csv"}
+    },
+    "params": [
+        {
+            "name": "year_selected",
+            "value": 2019,
+            "bind": {
+                "input": "range",
+                "min": 2019,
+                "max": 2024,
+                "step": 1,
+                "name": "Year: "
+            }
+        },
+        {
+            "name": "blood_type_selected",
+            "value": "a",
+            "bind": {
+                "input": "select",
+                "options": ["a", "b", "ab", "o"],
+                "labels": ["A", "B", "AB", "O"],
+                "name": "Blood Type: "
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "datum.year == year_selected"
+        },
+        {
+            "filter": "blood_type_selected == 'all' || datum.blood_type == blood_type_selected"
+        },
+        {
+            "window": [
+                {
+                    "op": "rank",
+                    "field": "donations",
+                    "as": "rank"
+                }
+            ],
+            "groupby": ["month", "blood_type"],
+            "sort": [{"field": "donations", "order": "descending"}]
+        },
+        {
+            "calculate": "datum.month + '-' + datum.year",
+            "as": "month_year"
+        }
+    ],
+    "selection": {
+        "hover": {
+            "type": "single",
+            "on": "mouseover",
+            "empty": "none",
+            "fields": ["state"]
+        },
+        "state_selection": {
+            "type": "multi",
+            "fields": ["state"],
+            "bind": "legend",
+            "empty": "none"
+        }
+    },
+    "mark": {
+        "type": "line",
+        "point": true
+    },
+    "encoding": {
+        "x": {
+            "field": "month",
+            "type": "ordinal",
+            "title": "Month",
+            "axis": {"labelAngle": -45},
+            "sort": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+        },
+        "y": {
+            "field": "rank",
+            "type": "quantitative",
+            "title": "Rank",
+            "scale": {"reverse": true , "zero": false}
+        },
+        "color": {
+            "field": "state",
+            "type": "nominal",
+            "title": "State",
+            "scale": {
+                "range": ["#1f77b4", "#ff7f00", "#abdda4", "#984ea3", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#FFD700", "#77CDFF", "#c5b0d5", "#2ca02c", "#fdae61"]
+            }
+        },
+        "opacity": {
+            "condition": [
+                {"test": "datum.state == 'Kuala Lumpur' || datum.state == 'Selangor' || datum.state == 'Johor'", "value": 1},
+                {"selection": "hover", "value": 1},
+                {"selection": "state_selection", "value": 1}
+            ],
+            "value": 0.2
+        },
+        "strokeWidth": {
+            "condition": [
+                {"selection": "hover", "value": 4},
+                {"selection": "state_selection", "value": 4}
+            ],
+            "value": 2
+        },
+        "detail": {"field": "blood_type", "type": "nominal"},
+        "tooltip": [
+            {"field": "state", "type": "nominal", "title": "State"},
+            {"field": "blood_type", "type": "nominal", "title": "Blood Type"},
+            {"field": "donations", "type": "quantitative", "title": "Donations"},
+            {"field": "rank", "type": "quantitative", "title": "Rank"},
+            {"field": "month_year", "type": "ordinal", "title": "Month-Year"}
+        ]
+    }
+}
